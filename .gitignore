@@ -48,6 +48,8 @@ Thumbs.db
 openfront_vectorstore/
 *.log
 .env
+.env.local
+.env.*.local
 
 # Large files
 *.zip

@@ -56,7 +56,15 @@ I created a **local AI-powered knowledge base** that can answer any question abo
 
 3. **Set up your API key**:
    - Get a Google Gemini API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
-   - Update the API key in `openfront_cli.py` (line 12)
+   - Copy `.env.example` to `.env` and add your API key:
+     ```bash
+     cp .env.example .env
+     # Edit .env and replace 'your-api-key-here' with your actual API key
+     ```
+   - Or set it as an environment variable:
+     ```bash
+     export GOOGLE_API_KEY='your-api-key-here'
+     ```
 
 4. **Run the CLI**:
    ```bash
@@ -143,12 +151,20 @@ The system includes knowledge about:
 
 ## 🔑 API Key Setup
 
-1. Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
-2. Create a new API key
-3. Replace the key in `openfront_cli.py` line 12:
-   ```python
-   os.environ["GOOGLE_API_KEY"] = "your-api-key-here"
+### Option 1: Using .env file (Recommended)
+1. Copy the example environment file:
+   ```bash
+   cp .env.example .env
    ```
+2. Edit `.env` and replace `your-api-key-here` with your actual API key
+3. Get your API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
+
+### Option 2: Environment Variable
+```bash
+export GOOGLE_API_KEY='your-api-key-here'
+```
+
+**Security Note**: Never commit your actual API key to version control. The `.env` file is already in `.gitignore` to prevent accidental commits.
 
 ## 🛠️ Customization
 

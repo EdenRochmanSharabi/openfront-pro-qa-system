@@ -2,6 +2,7 @@
 import os
 import sys
 import argparse
+from dotenv import load_dotenv
 from bs4 import BeautifulSoup
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
@@ -9,8 +10,21 @@ from langchain.vectorstores import FAISS
 from langchain.chains import RetrievalQA
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
 
-# Set your Gemini key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDG7H8-Zl031uAxJL5u3aXZ8wx_lt71_I8"
+# Load environment variables from .env file
+load_dotenv()
+
+# Set your Gemini key from environment variable
+api_key = os.getenv("GOOGLE_API_KEY")
+if not api_key:
+    print("❌ Error: GOOGLE_API_KEY environment variable not set!")
+    print("Please set your API key:")
+    print("1. Get a key from https://makersuite.google.com/app/apikey")
+    print("2. Set it as an environment variable:")
+    print("   export GOOGLE_API_KEY='your-api-key-here'")
+    print("   Or create a .env file with: GOOGLE_API_KEY=your-api-key-here")
+    sys.exit(1)
+
+os.environ["GOOGLE_API_KEY"] = api_key
 
 def load_local_html(base_path="./openfrontpro.com"):
     """Load and parse HTML files from the website directory."""
