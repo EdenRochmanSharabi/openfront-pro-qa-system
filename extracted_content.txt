@@ -1,0 +1,4339 @@
+OpenFront Pro Website Content Extraction
+Total files processed: 58
+Generated on: Mon Jul 28 21:59:52 CEST 2025
+================================================================================
+
+📄 FILE: ./openfrontpro.com/index.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Master
+OpenFront.io
+Your comprehensive companion site featuring guides, strategies, and community resources to dominate the battlefield.
+Get Started
+Everything You Need to Excel
+From beginner tutorials to advanced strategies, we've got you covered.
+Comprehensive Guides
+Step-by-step tutorials covering everything from basics to advanced strategies.
+Building Database
+Detailed information about all buildings, their costs, and optimal placement strategies.
+Map Analysis
+In-depth analysis of all maps with strategic insights and positioning tips.
+Ready to Dominate?
+Join thousands of players who have improved their game with our comprehensive guides and strategies.
+Start Learning Now
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps.html
+------------------------------------------------------------
+OpenFront Maps Guide - All Map Strategies | OpenFront Pro
+Master Every
+OpenFront Map
+Comprehensive guides for all 22 OpenFront.io maps. Learn optimal spawn locations, strategic regions, and winning tactics for every battlefield.
+🗺️
+22 Complete Maps
+• 📍 Spawn Strategies • 🏆 Win Rate Heatmaps
+Featured Map Categories
+From massive continents to strategic islands, master every terrain type with specialized guides and win rate heatmaps.
+Continental Maps
+Large-Scale Warfare
+Master massive continental battlefields with complex terrain, multiple regions, and extensive expansion opportunities.
+Featured Maps:
+•
+World
+- Global conquest
+•
+Africa
+- Desert & savanna warfare
+•
+Asia
+- Massive landmass control
+•
+Europe
+- Dense strategic regions
+Island & Regional Maps
+Focused Combat Zones
+Dominate smaller, more focused battlefields with unique strategic challenges and concentrated player interactions.
+Featured Maps:
+•
+Iceland
+- Arctic warfare
+•
+Japan
+- Island hopping
+•
+Britannia
+- Naval strategy
+•
+Faroe Islands
+- Compact battles
+Complete Map Library
+Explore detailed guides for every OpenFront.io map with spawn strategies, win rate heatmaps, and tactical insights.
+World Map
+Global Conquest
+Master the ultimate OpenFront battlefield with all continents and strategic regions for global domination.
+Scale:
+Massive
+Strategy:
+Continental control
+View Guide
+Africa Map
+Desert Warfare
+Conquer the African continent with strategic control of key regions and optimal spawn positioning.
+Terrain:
+Desert & Savanna
+Strategy:
+Regional control
+View Guide
+Asia Map
+Massive Landmass
+Dominate the largest continental battlefield with diverse regions and extensive expansion opportunities.
+Scale:
+Largest continent
+Strategy:
+Multi-region control
+View Guide
+Europe Classic
+Dense Strategic Regions
+Master the classic European battlefield with dense population centers and strategic chokepoints.
+Density:
+High population
+Strategy:
+Chokepoint control
+View Guide
+North America
+Continental Power
+Conquer the North American continent with strategic control of key regions and natural barriers.
+Features:
+Natural barriers
+Strategy:
+Coast control
+View Guide
+South America
+Tropical Warfare
+Master the South American continent with diverse terrain from Amazon rainforest to Patagonian plains.
+Terrain:
+Diverse regions
+Strategy:
+Coast & interior
+View Guide
+Australia
+Island Continent
+Master the isolated Australian continent with unique outback terrain and coastal strategic points.
+Type:
+Island continent
+Strategy:
+Coastal dominance
+View Guide
+Japan
+Island Hopping
+Master the Japanese archipelago with strategic island hopping and naval control tactics.
+Type:
+Island chain
+Strategy:
+Naval dominance
+View Guide
+Iceland
+Arctic Warfare
+Master the isolated Nordic island with unique arctic terrain and strategic positioning.
+Climate:
+Arctic
+Strategy:
+Isolation advantage
+View Guide
+Mars
+Alien Terrain
+Conquer the red planet with unique Martian terrain and futuristic warfare strategies.
+Setting:
+Futuristic
+Strategy:
+Alien warfare
+View Guide
+Pangea
+Supercontinent
+Master the ancient supercontinent with massive landmass and prehistoric warfare dynamics.
+Era:
+Prehistoric
+Strategy:
+Landmass control
+View Guide
+Complete Map Collection
+Explore every available OpenFront.io map with detailed guides, spawn strategies, and win rate analysis.
+World
+Global conquest
+Africa
+Desert warfare
+Asia
+Massive landmass
+Europe Classic
+Dense regions
+Europa
+European theater
+North America
+Continental power
+South America
+Tropical warfare
+Australia
+Island continent
+Japan
+Island hopping
+Iceland
+Arctic warfare
+Britannia
+Naval strategy
+Faroe Islands
+Compact battles
+Falkland Islands
+Remote islands
+Halkidiki
+Greek peninsula
+MENA
+Middle East & North Africa
+Black Sea
+Regional control
+Between Two Seas
+Strategic waterways
+Gateway to the Atlantic
+Naval gateway
+Baikal
+Lake region
+Mars
+Alien terrain
+Pangea
+Supercontinent
+Deglaciated Antarctica
+Ice-free continent
+Ready to Dominate Every OpenFront Map?
+Start with the most popular maps to learn core strategies, then explore specialized terrains for advanced tactical knowledge.
+Start with World Map
+Master Africa Next
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/socials.html
+------------------------------------------------------------
+Community & Socials - OpenFront Pro
+Join the
+Community
+Connect with thousands of OpenFront players, share strategies, find matches, and stay updated with the latest game developments.
+Main Community Hubs
+These are the primary places where the OpenFront community gathers to chat, strategize, and connect.
+Discord Server
+Most Active Community
+Join our vibrant Discord community with dedicated channels for general chat, gameplay discussions, development updates, and bug reports. Connect with players, find matches, and get real-time support.
+Key Channels:
+•
+#general
+- Chat about anything
+•
+#gameplay
+- Find matches & discuss strategies
+•
+#development
+- Follow game development
+•
+#bugs
+- Report issues
+Learn More
+Reddit Community
+1.6K Members • Top 18%
+Join r/Openfront for in-depth discussions, strategy guides, game updates, and community content. Share your victories, ask questions, and connect with fellow strategists.
+Community Guidelines:
+• Stay on topic and be respectful
+• No spam or excessive self-promotion
+• Verify information before sharing
+• Follow Reddit's sitewide rules
+Learn More
+Steam
+Official Game Page
+OpenFront on Steam - Early Access coming soon! Add to wishlist, join discussions, and get ready for the ultimate PvP battle-royale experience.
+Learn More
+YouTube
+Video Content Hub
+Watch gameplay videos, tutorials, and strategy guides from the OpenFront community. Learn from top players and content creators.
+Learn More
+Official Wiki
+Comprehensive Game Guide
+Access the official OpenFront wiki for detailed information about game mechanics, strategies, buildings, and more. Community-maintained and always up-to-date.
+Learn More
+GitHub
+Open Source Repository
+Explore the open source OpenFront.io repository. Contribute to development, report issues, and help build the future of the game.
+Learn More
+Patreon
+Support Development
+Support OpenFront's development and help fund new features, performance improvements, and platform releases.
+Learn More
+Mobile Platforms
+iOS App Store
+Coming Soon
+OpenFront for iPhone and iPad - Coming soon with optimized touch controls and mobile-specific features.
+Learn More
+Google Play Store
+Coming Soon
+OpenFront for Android - Coming after iOS release with optimized touch controls and mobile gameplay features.
+Learn More
+Community Guidelines
+Help us maintain a welcoming and positive environment for all players
+Do's
+• Be respectful and welcoming to new players
+• Share strategies and help others improve
+• Report bugs and provide constructive feedback
+• Use appropriate channels for different topics
+• Follow platform-specific rules and guidelines
+Don'ts
+• No harassment, hate speech, or toxic behavior
+• Don't spam or advertise unrelated content
+• No cheating, exploiting, or multi-tabbing
+• Don't share personal information or doxx others
+• Avoid political discussions and controversial topics
+Ready to Join the Community?
+Connect with fellow strategists, share your victories, and help shape the future of OpenFront.io.
+Join Discord
+Visit Reddit
+Support Development
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics.html
+------------------------------------------------------------
+Game Mechanics Guide - OpenFront Pro
+Master
+Game Mechanics
+Comprehensive guides for every game mechanic in OpenFront.io. Learn core systems, strategic interactions, and advanced techniques to dominate every match.
+⚙️
+12 Core Mechanics
+• 🎯 Strategic Systems • 💡 Pro Techniques
+Core Game Systems
+From population growth to nuclear warfare, master every system that drives OpenFront.io's strategic depth.
+Economic Systems
+Growth & Resource Management
+Master the economic foundation of your empire. Learn population growth curves, gold generation, and trade mechanics that fuel your expansion.
+Key Systems:
+•
+Population Growth
+- Optimal growth ratios
+•
+Gold Economy
+- Resource generation & spending
+•
+Trade Routes
+- Port-based income systems
+Combat Systems
+Warfare & Territory Control
+Dominate the battlefield with advanced combat knowledge. Learn attack ratios, defensive strategies, and territorial expansion tactics.
+Key Systems:
+•
+Attack Ratios
+- Combat calculations & efficiency
+•
+Defending
+- Fortification & territorial defense
+•
+Enclosure
+- Annexation & territory capture
+Individual Mechanics Guides
+Deep dive into each game mechanic with comprehensive strategies, calculations, and tactical applications.
+Population Growth
+Growth Optimization
+Master the population growth curve and optimal worker-troop ratios for maximum expansion efficiency.
+Optimal Ratio:
+~42% of max
+Focus:
+Growth curves
+Learn More
+Gold Economy
+Resource Management
+Optimize gold generation and spending strategies for sustained economic growth and military expansion.
+Generation:
+Worker-based
+Focus:
+Economic scaling
+Learn More
+Trade Routes
+Economic Networks
+Master trade route mechanics and port-based income generation for sustained economic growth.
+Income:
+Port-based
+Focus:
+Trade networks
+Learn More
+Attacking
+Expansion Strategy
+Master expansion tactics, territorial conquest, and balanced growth strategies for effective attacking.
+Strategy:
+Balanced expansion
+Focus:
+Territory control
+Learn More
+Defending
+Fortification Strategy
+Master defensive positioning, fortification tactics, and territorial protection strategies.
+Strategy:
+Terrain advantage
+Focus:
+Border fortification
+Learn More
+Attack Ratio
+Combat Calculations
+Master combat calculations and optimal troop ratios for maximum battle efficiency.
+Focus:
+Combat math
+Strategy:
+Optimal ratios
+Learn More
+Enclosure
+Territory Annexation
+Master enclosure mechanics to capture entire territories by surrounding them, bypassing battles.
+Method:
+Surrounding
+Benefit:
+Instant capture
+Learn More
+Alliances
+Diplomatic Strategy
+Master diplomatic mechanics, alliance benefits, and strategic partnerships for competitive advantage.
+Duration:
+10 minutes
+Benefits:
+Trade priority
+Learn More
+Bot Mechanics
+AI Interactions
+Understand bot behavior patterns and leverage AI interactions for early game advantages.
+Count:
+400 per game
+Behavior:
+Expansion only
+Learn More
+Strategic & Advanced Mechanics
+Master advanced gameplay systems that separate beginners from experts. Essential knowledge for competitive play.
+Starting Position
+Spawn Strategy
+Master starting position selection to maximize early game expansion potential and minimize threats.
+Priority:
+Expansion space
+Avoid:
+Player clusters
+Learn More
+Hotkeys
+Efficiency Controls
+Master keyboard shortcuts and controls for dramatically improved gameplay efficiency and speed.
+Benefit:
+Speed advantage
+Focus:
+Camera & controls
+Learn More
+Winning Strategies
+Victory Conditions
+Master comprehensive winning strategies and phase-specific tactics for consistent victories.
+Approach:
+Phase-specific
+Focus:
+Endgame tactics
+Learn More
+Ready to Master OpenFront.io Mechanics?
+Start with our comprehensive beginners guide to learn the fundamentals, then dive deep into specific mechanics for competitive advantage.
+Start with Basics
+Learn Population First
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/beginners-guide.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+OpenFront.io Complete Beginner’s Guide
+What is OpenFront.io?
+OpenFront.io is a
+real-time strategy browser game
+where players compete to dominate the world map. The game combines territorial expansion, economic management, diplomatic alliances, and nuclear warfare in an engaging multiplayer experience.
+Victory is achieved by controlling 80% of all non-irradiated land
+, making it a race to expand while preventing others from reaching that threshold.
+The game features simple controls but deep strategic mechanics, making it accessible to newcomers while offering complexity for experienced players. You play against other human players, AI bots, and Nations (stronger AI) in real-time matches that can last anywhere from 10 minutes to an hour.
+Understanding the Basics
+Game Objective
+Your primary goal is to
+control 80% of the total map’s non-irradiated land
+to win. This means:
+You must expand your territory through conquest
+Nuclear weapons create radioactive zones that don’t count toward anyone’s percentage
+The first player to reach 80% wins the match
+Other players can be eliminated if they lose all their territory
+Starting the Game
+When you join a match, you’ll first select your
+starting position
+on the map. This is one of the most crucial decisions you’ll make:
+Choose areas with:
+Plains terrain (light green) for fastest expansion
+Access to water for naval gameplay
+Multiple bots nearby for easy early expansion
+Distance from other human players
+Avoid areas with:
+Mountain terrain (white) that’s slow to capture
+Being surrounded by multiple human players
+No access to water or bots
+Core Game Mechanics
+Population and Growth System
+Population is the foundation of your empire. Understanding the
+population growth curve
+is essential for success:
+Each tile you own provides 3 population
+Population grows fastest at approximately 42% of your maximum capacity
+Growth slows significantly above 80% capacity
+Workers reproduce 30% faster than troops
+Managing Your Population Balance:
+You must divide your population between two roles:
+Troops
+: Defend your territory and conduct attacks
+Workers
+: Generate gold income and reproduce faster
+The optimal balance changes throughout the game, depending on your needs. In the early game we recommend to keep 80-90% of your population as troops for expansion and defense. As you progress, shift more to workers for economic growth and sustainability if the need for expansion diminishes.
+Terrain Types and Combat
+The game features three terrain types that significantly affect combat:
+Plains (Light Green)
+Easiest and fastest to capture
+15% speed bonus for attacks
+10% fewer casualties for attackers
+Best for rapid early expansion
+Highlands/Deserts (Tan/Orange)
+Moderate difficulty to capture
+Normal attack speed
+Standard casualty rates
+Balanced terrain for general gameplay
+Mountains (White)
+Hardest and slowest to capture
+25% speed penalty for attacks
+30% more casualties for attackers
+Excellent for defensive positions and cities
+Attack Ratio System
+The
+attack ratio slider
+controls what percentage of your troops participate in each attack. This is crucial for managing your expansion:
+10-30%
+: Conservative expansion, maintains strong defense
+30-50%
+: Balanced approach for moderate expansion
+75%+
+: Aggressive expansion but leaves you vulnerable
+Higher ratios capture territory faster but leave fewer troops for defense. The optimal ratio depends on your situation and nearby threats.
+Essential Buildings and Structures
+Cities
+Cities are your most important buildings, providing
++25,000 population capacity each
+. They’re essential for scaling your empire:
+Cost Structure:
+First city: 125,000 gold
+Second city: 250,000 gold
+Third city: 500,000 gold
+Fourth city and onwards: 1,000,000 gold
+Placement Strategy:
+Build on mountain terrain for natural defense
+Place in central locations for maximum territory coverage
+Keep them away from borders and coasts to avoid easy capture
+Build early and often - they’re the foundation of growth
+Ports
+Ports unlock naval gameplay and provide crucial economic benefits:
+Functions:
+Enable construction of warships for naval control
+Generate
+automatic trade ships
+that create gold income
+Allow amphibious attacks across water
+Trade income scales with distance
+- longer routes generate more gold
+Trade Income Formula:
+Gold earned = 10,000 + 150 × (distance^1.1)
+This means a trade route of 200 tiles generates about
+57,434 gold
+, while a 20-tile route only generates
+13,680 gold
+.
+Defense Posts
+Defense posts provide the strongest defensive bonus in the game:
+Defensive Multipliers:
+5× defense bonus
+in a 30-tile radius
+6× bonus
+when built on mountains (stacks with terrain)
+4.5× bonus
+on plains
+Multiple defense posts don’t stack
+Strategic Uses:
+Protect cities and important infrastructure
+Control chokepoints and strategic passages
+Create defensive lines along borders
+Force enemies to commit massive armies to break through
+Missile Systems
+Missile Silos
+(1,000,000 gold) allow you to launch nuclear weapons:
+Atom Bomb
+(750,000 gold): Small area destruction
+Hydrogen Bomb
+(5,000,000 gold): Large area devastation
+MIRV
+(25,000,000 gold): Destroys entire nations, cannot be intercepted
+SAM Launchers
+(1,500,000 gold) defend against nuclear attacks:
+75% interception rate
+for Atom and Hydrogen bombs
+75-pixel range
+around the launcher
+7.5-second cooldown
+between interceptions
+Cannot intercept MIRVs
+Warships
+Warships control naval territories and trade routes:
+Combat Capabilities:
+Start with 500 health, grow to 1,000 maximum
+250 damage per shot every 2 seconds
+130-tile targeting range
+Automatically patrol assigned areas
+Strategic Functions:
+Capture enemy trade ships
+for economic warfare
+Destroy enemy boats attempting naval invasions
+Control sea lanes and strategic waterways
+Support your own trade routes
+Early Game Strategy (First 10 Minutes)
+Perfect Opening Sequence
+The first few minutes determine your entire game trajectory:
+Wait 2-3 seconds
+for population to stabilize
+Set attack ratio to 30-35%
+for controlled expansion
+Capture all neutral territory
+in your immediate area
+Wait for 15,000+ population
+before attacking bots
+Build your first city
+as soon as you have 125,000 gold
+Bot Rushing Strategy
+Bots are your primary source of early expansion and gold:
+Bot Characteristics:
+Always attack with exactly 50% of their troops
+Never build structures or use advanced tactics
+Provide significant gold rewards when defeated
+Can be easily surrounded for instant annexation
+Optimal Bot Strategy:
+Target weakest bots first
+for easy victories
+Look for annexation opportunities
+- surrounding bots instantly captures them with zero losses
+Maintain 30-50% population capacity
+for optimal growth during expansion
+Save some troops
+to defend against human player attacks
+Annexation Technique
+Annexation is the most powerful conquest mechanic in the game:
+How it Works:
+Completely surround enemy territory with your own
+Instantly capture
+all enclosed land
+with
+zero troop losses
+Works on bots, players, and neutral territory
+Cannot annex territory touching water or map edges
+Strategic Priority:
+Always look for annexation opportunities before direct attacks
+Much more efficient than traditional combat
+Can eliminate entire players in one move
+Essential for bot rushing in early game
+Diplomacy and Alliance System
+Alliance Benefits and Risks
+Alliances are crucial to survive in the early game.
+When allies betray you, they suffer -50% defense for 30 seconds from all attacks, making them less likely to break alliances
+All alliances are temporary. They will automatically expire after a couple minutes. Form them for mutual benefit, but be prepared for inevitable betrayal. Consider terrain when choosing allies to protect vulnerable borders and create strategic buffers.
+Strategic Alliance Management
+Early Game Alliances:
+Form defensive pacts with nearby players to focus on bot expansion
+Ally with players who share borders with strong bots
+Avoid alliances that force you into conflicts you can’t win
+Mid Game Coordination:
+Share information about enemy nuclear programs
+Coordinate expansion into different regions
+Late Game Considerations:
+Plan for inevitable betrayal as victory approaches
+Consider betraying when you can reach 80% land control
+Use alliances to prevent others from winning
+Naval Warfare and Trade
+Understanding Trade Mechanics
+Trade ships automatically generate income between your ports and other players’ ports:
+Trade Optimization:
+Build ports on multiple bodies of water
+for redundant income
+Longer trade routes generate exponentially more gold
+Allied players’ ports are prioritized
+for trade
+Trade stops automatically during combat
+and resumes after 5 minutes
+Economic Impact:
+A single long-distance trade route can generate more income than dozens of short routes. Prioritize building ports on different continents when possible.
+Warship Strategy
+Warships serve both economic and military functions:
+Economic Warfare:
+Capture enemy trade ships
+to steal their income
+Destroy enemy warships
+protecting their trade routes
+Control strategic waterways
+to dominate trade
+Military Applications:
+Patrol key areas
+to prevent enemy naval invasions
+Support amphibious attacks
+on enemy coastlines
+Destroy enemy boats
+attempting to bypass your defenses
+Nuclear Warfare
+Nuclear Weapon Types and Uses
+Nuclear weapons are the ultimate strategic tool for reshaping the battlefield:
+Atom Bombs
+(750,000 gold):
+Small blast radius
+for precise strikes
+Best for destroying 1-2 enemy structures
+Cost-effective
+for tactical strikes
+Can be intercepted by SAM launchers
+Hydrogen Bombs
+(5,000,000 gold):
+Large blast radius
+for area denial
+Destroys multiple structures in clustered areas
+Creates
+radioactive wasteland
+that doesn’t count for victory
+Can be intercepted by SAM launchers, but also outranges SAMs when aimed correctly
+MIRV
+(25,000,000 gold):
+Destroys entire enemy nations
+Cannot be intercepted
+by any defense
+Most powerful weapon
+in the game
+Often decisive in late-game scenarios
+Nuclear Defense Strategy
+SAM Launcher Networks:
+Build overlapping coverage
+around cities and key infrastructure
+75% interception rate
+provides good but not perfect protection
+Cannot stop MIRVs
+- the ultimate nuclear threat
+7.5-second cooldown
+means multiple quick strikes can overwhelm them
+Strategic Considerations:
+Nuclear deterrence
+: Having nukes prevents others from using theirs
+First strike advantage
+: Can eliminate threats before they respond
+Economic targeting
+: Destroy enemy cities and infrastructure
+Area denial
+: Create radioactive barriers to movement
+Advanced Strategies
+Mid-Game Transitions
+As the game progresses beyond the initial bot rush phase:
+Economic Development:
+Build 3-4 cities
+for massive population capacity
+Establish multiple ports
+for diversified trade income
+Develop nuclear capabilities
+for deterrence and offense
+Create defensive networks
+with SAM launchers and defense posts
+Strategic Positioning:
+Control chokepoints
+to limit enemy movement
+Secure resource-rich regions
+with multiple bots and ports
+Build defensive depth
+with layered fortifications
+Maintain flexibility
+to respond to threats and opportunities
+Late Game Victory Paths
+Expansion Victory:
+Rapid annexation
+of smaller players and remaining bots
+Chain conquests
+to quickly reach 80% land control
+Speed over caution
+when victory is within reach
+Nuclear Victory:
+MIRV enemy threats
+before they can reach 80%
+Destroy enemy infrastructure
+to cripple their growth
+Create radioactive barriers
+to prevent enemy expansion
+Diplomatic Victory:
+Alliance manipulation
+to prevent any single player from winning
+Calculated betrayals
+when you can secure victory
+Information warfare
+to coordinate against the leading player
+Quick Reference for New Players
+Essential Hotkeys
+Space
+: Toggle terrain view (see plains/mountains/highlands)
+WASD
+: Move camera around the map
+C
+: Center camera on your territory
+Q/E
+: Zoom in and out
+Left-click
+: Attack adjacent territory
+Right-click
+: Open radial menu for building and diplomacy
+Ctrl + Left-click
+: Quick access to build menu
+Shift + Scroll
+: Adjust attack ratio in 5% increments
+Critical Numbers to Remember
+80%
+: Land needed for victory
+42%
+: Optimal population percentage for fastest growth
+25,000
+: Population added by each city
+30%
+: Faster reproduction rate for workers vs troops
+75%
+: SAM launcher interception rate
+6×
+: Maximum defense multiplier from defense posts on mountains
+Early Game Priorities (First 15 Minutes)
+Secure starting area
+: Capture all neutral land nearby
+Rush adjacent bots
+: Focus on weak targets and annexation opportunities
+Build first city
+: Essential population boost
+Establish coastal presence
+: Build port for trade and naval access
+Maintain defensive capability
+: Keep enough troops to deter human attacks
+Common Beginner Mistakes to Avoid
+Over-expanding early
+: Leaving yourself defenseless against human players
+Ignoring economy
+: Not building enough workers or ports for gold income
+Poor city placement
+: Building cities on plains or near borders
+Alliance negligence
+: Either trusting too much or refusing all cooperation
+Nuclear unpreparedness
+: Not building SAM defenses or nuclear deterrence
+Resource Management Tips
+Population growth peaks at 42% capacity
+- stay near this ratio when possible
+Workers are 30% more efficient
+at reproduction than troops
+Long-distance trade routes
+generate exponentially more gold
+Cities double in cost
+with each purchase - plan your expansion
+Nuclear weapons create permanent wasteland
+that doesn’t count toward victory
+Conclusion
+OpenFront.io rewards both strategic thinking and tactical execution. Success comes from understanding the interconnected systems of population growth, economic development, military expansion, and diplomatic maneuvering. Master the early game fundamentals of bot rushing and territory expansion, develop your economic base through cities and trade, and prepare for the complex late-game decisions around nuclear warfare and alliance management.
+Remember that every game is different based on player behavior, map layout, and the dynamic interactions between multiple human opponents. Use this guide as a foundation, but be prepared to adapt your strategy based on the unique circumstances of each match.
+The key to improvement is practice combined with understanding these core mechanics. Start with the basics, focus on solid economic development, and gradually incorporate more advanced strategies as you gain experience. Most importantly, learn from both victories and defeats to continuously refine your strategic decision-making.
+Good luck conquering the world, commander!
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/patreon.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Master
+OpenFront.io
+Your comprehensive companion site featuring guides, strategies, and community resources to dominate the battlefield.
+Get Started
+Everything You Need to Excel
+From beginner tutorials to advanced strategies, we've got you covered.
+Comprehensive Guides
+Step-by-step tutorials covering everything from basics to advanced strategies.
+Building Database
+Detailed information about all buildings, their costs, and optimal placement strategies.
+Map Analysis
+In-depth analysis of all maps with strategic insights and positioning tips.
+Ready to Dominate?
+Join thousands of players who have improved their game with our comprehensive guides and strategies.
+Start Learning Now
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/buildings.html
+------------------------------------------------------------
+Buildings Guide - OpenFront Pro
+Master
+Buildings
+Comprehensive guides for every building type in OpenFront.io. Learn optimal strategies, placement tactics, and advanced techniques to dominate the battlefield.
+🏗️
+10 Building Types
+• 🎯 Strategic Guides • 💡 Pro Tips
+Building Categories
+From economic foundations to devastating nuclear weapons, master every aspect of OpenFront.io's building system.
+Economic Buildings
+Foundation of Your Empire
+Build the economic foundation of your empire with cities and ports. These buildings provide population capacity and trade income essential for military expansion.
+Key Buildings:
+•
+Cities
+- +25,000 population capacity
+•
+Ports
+- Generate trade income
+Military Buildings
+Defensive & Offensive Power
+Establish defensive perimeters and launch devastating attacks with military buildings. From basic defense posts to nuclear missile silos.
+Key Buildings:
+•
+Defense Posts
+- Territorial defense
+•
+SAM Launchers
+- Anti-missile defense
+•
+Missile Silos
+- Nuclear warfare
+•
+Warships
+- Naval dominance
+Individual Building Guides
+Deep dive into each building type with comprehensive strategies, costs, and tactical applications.
+Cities
+Economic Foundation
+The cornerstone of your empire. Learn optimal placement, cost progression, and strategic timing for maximum population growth.
+Cost:
+125k - 1M gold
+Benefit:
++25k population
+Learn More
+Ports
+Trade Income
+Generate steady trade income to fund your expansion. Strategic coastal placement and economic integration tactics.
+Cost:
+125k - 1M gold
+Benefit:
+Trade income
+Learn More
+Defense Posts
+Territorial Defense
+Establish defensive perimeters and protect your territory. Essential for border control and strategic positioning.
+Cost:
+50k - 250k gold
+Benefit:
+Area defense
+Learn More
+SAM Launchers
+Anti-Missile Defense
+Counter nuclear threats with surface-to-air missile systems. Essential defense against enemy nuclear strikes.
+Cost:
+1.5M - 3M gold
+Benefit:
+Missile defense
+Learn More
+Missile Silos
+Nuclear Warfare
+Launch devastating nuclear strikes with atom bombs, hydrogen bombs, and MIRV systems. Ultimate late-game weapon.
+Cost:
+1M gold
+Benefit:
+Nuclear strikes
+Learn More
+Warships
+Naval Dominance
+Control the seas with powerful naval units. Essential for coastal defense and amphibious operations.
+Cost:
+250k - 1M gold
+Benefit:
+Naval control
+Learn More
+Nuclear Weapons Arsenal
+Master the ultimate weapons of mass destruction. Each nuclear weapon serves different strategic purposes.
+Atom Bomb
+Tactical Nuclear
+Small blast radius nuclear weapon ideal for precise strikes against concentrated enemy infrastructure.
+Blast:
+Small radius
+Use:
+Tactical strikes
+Learn More
+Hydrogen Bomb
+Strategic Nuclear
+Large blast radius thermonuclear weapon for devastating area denial and massive infrastructure destruction.
+Blast:
+Large radius
+Use:
+Area denial
+Learn More
+MIRV
+Multi-Warhead
+Multiple independently targetable reentry vehicles. Deploy multiple mini-warheads across an entire nation.
+Blast:
+Multiple targets
+Use:
+Nation-wide
+Learn More
+Ready to Master OpenFront.io Buildings?
+Start with our comprehensive beginners guide to learn the fundamentals, then dive deep into specific building strategies.
+Start with Basics
+Learn Cities First
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/mars.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Mars Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Mars map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/between-two-seas.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Between Two Seas Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Between Two Seas map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/world.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront World Map Guide
+Best Spawn Locations
+These are the best spawn locations on the world map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/mena.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront MENA Map Guide
+Best Spawn Locations
+These are the best spawn locations on the MENA map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/europe-classic.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Europe Classic Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Europe Classic map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/pangea.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Pangea Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Pangea map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/south-america.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront South America Map Guide
+Best Spawn Locations
+These are the best spawn locations on the South America map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/black-sea.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Black Sea Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Black Sea map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/halkidiki.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Halkidiki Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Halkidiki map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/deglaciated-antarctica.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Deglaciated Antarctica Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Deglaciated Antarctica map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/baikal.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Baikal Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Baikal map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/gateway-to-the-atlantic.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Gateway to the Atlantic Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Gateway to the Atlantic map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/flakland-islands.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Falkland Islands Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Falkland Islands map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/faroe-islands.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Faroe Islands Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Faroe Islands map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/africa.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Africa Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Africa map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/australia.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Australia Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Australia map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/iceland.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Iceland Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Iceland map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/europa.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Europa Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Europa map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/britannia.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Britannia Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Britannia map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/japan.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Japan Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Japan map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/north-america.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront North America Map Guide
+Best Spawn Locations
+These are the best spawn locations on the North America map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/maps/asia.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Openfront Asia Map Guide
+Best Spawn Locations
+These are the best spawn locations on the Asia map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/buildings/warship.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Warships Guide for OpenFront.io
+Main Takeaway:
+Warships are pivotal naval units that deter enemy trade, secure your ports’ income streams, and defend coastal territories. Properly acquiring, positioning, and employing warships can shift mid- and late-game momentum in your favor.
+1. Overview and Acquisition
+What Is a Warship?
+A
+Warship
+is a boat-type building that:
+Attacks enemy transports and warships.
+Captures rival trade ships, redirecting their gold to you.
+Starts with 500 HP and can heal up to 1 000 HP when you control at least one port.
+How to Build
+Port Requirement:
+Must own at least one Port.
+Build Menu:
+Right-click any water tile → yellow wrench icon → select
+Warship
+.
+Spawn Location:
+Appears at your nearest port and sails to the targeted tile.
+Cost Scaling
+1st Warship: 250 000 gold
+Each additional: +250 000 gold, capped at 1 000 000 gold
+Formula:
+cost = min(1 000 000, (numWarships + 1) * 250 000)
+.
+2. Core Properties
+Property
+Value
+Hit Points
+500 → 1 000 HP (max) when repaired
+Repair Rate
++1 HP per tick (100 ms) if you have ≥1 Port
+Movement
+1 tile/tick (2 tiles/sec) → 2 tiles/tick when chasing trade
+Attack Rate
+1 shell every 2 s (20 ticks)
+Shell Damage
+250 HP per hit
+Targeting Range
+130 tiles
+Territory Bounds
+Unlimited in water
+3. Behavior and Combat
+Target Priority
+Enemy
+Warships
+Enemy
+Transport Ships
+Trade Ships
+(for capture)
+Engagement Rules
+Automatic Patrol:
+Warships patrol their assigned sector when idle.
+Auto-Engagement:
+They fire on any hostile naval unit entering range.
+Chase & Capture:
+Upon detecting an enemy trade ship (not heading to your ports), they double speed (2 tiles/tick) to intercept and capture it, converting it to your nation’s vessel.
+Return to Patrol:
+After engagements, they resume patrolling.
+4. Strategic Roles
+4.1 Trade Denial & Income Theft
+By placing warships along enemy trade routes or chokepoints, you can:
+Intercept Trade Ships:
+Steal gold that would otherwise reach rival ports.
+Economic Warfare:
+Deny opponents resources to slow their expansion.
+Tip:
+Deploy your first warship early on your most contested sea border to maximize interceptions.
+4.2 Coastal Defense
+Warships serve as mobile coastal batteries:
+Protect against enemy transports during amphibious assaults.
+Support defense posts by thinning attacking naval forces.
+Tip:
+Position warships near your flanks to shield weaker backline allies and prevent enemy boat raids.
+4.3 Fleet Support
+In team games, warships can:
+Escort Trade Ships:
+Escort allied trade convoys to safety.
+Engage Enemy Fleets:
+Skirmish small enemy naval groups to establish sea control.
+5. Optimal Usage Tips
+Early Investment:
+Build at least one warship after your first port to begin intercepting trade.
+Choke Points:
+Identify narrow waterways or river mouths—ideal for ambushes.
+Incremental Builds:
+Consider cost scaling; refrain from over-building until mid-game economics improve.
+Combined Arms:
+Support warships with nearby ports for continuous repair and with defense posts for layered coastal defense.
+Mobility Exploits:
+Use manual movement (left-click highlight → target water) to outmaneuver slower enemy vessels.
+6. Common Pitfalls
+Overextension:
+Sending warships too deep without support risks losing high-value units.
+Neglected Ports:
+Without ports, warships cannot heal or capture trade effectively.
+Cost Mismanagement:
+Ignoring the 1 000 000 gold cap can lead to inefficient late-game builds.
+7. Summary
+Warships in OpenFront.io are versatile naval units essential for both offense and defense at sea. By understanding their acquisition costs, combat properties, and strategic roles—particularly trade denial and coastal defense—you can leverage warships to disrupt opponent economies and secure maritime superiority.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/buildings/atom-bomb.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Atom Bomb Guide for OpenFront.io
+Key Takeaway:
+The Atom Bomb is a tactical nuclear weapon ideal for striking concentrated enemy infrastructure. Use it to eliminate clusters of defensive or economic buildings, then follow up with conventional forces to exploit weakened borders.
+1. Overview
+The Atom Bomb is the smallest-yield nuclear missile in OpenFront.io’s arsenal. It delivers a powerful fission blast over a limited radius, making it most effective against tightly packed targets such as Cities, Ports, Defense Posts, and Missile Silos.
+2. Build Requirements
+Prerequisite Building:
+Missile Silo
+Terrain:
+Land only (cannot be built on water)
+Availability:
+Requires an existing Missile Silo to launch.
+3. Core Statistics
+Cost:
+750,000 Gold
+Cooldown:
+~10 seconds
+Yield Area:
+Small radius
+Build Category:
+[MS] Missile
+4. Usage and Tactics
+Primary Targets:
+Groups of Cities, Ports, Defense Posts, or Enemy Missile Silos positioned closely together.
+Tactical Role:
+Softening Defenses:
+Eliminate or heavily damage clustered defense posts to create exploitable breaches.
+Economic Disruption:
+Wipe out Port clusters to halt enemy gold flow.
+Optimal Timing:
+Deploy immediately before an invasion push or to preemptively strike high-value infrastructure ahead of a follow-up land assault.
+“Generally you only want to use this to pelt structure-dense areas, such as two adjacent Cities or a Port and Missile Silo.”
+5. Counters and Limitations
+Anti-Nuclear Defense:
+SAM Launcher:
+75% chance to intercept an incoming Atom Bomb; cannot intercept MIRVs.
+Resource Intensive:
+Requires a fully built Missile Silo (1,000,000 Gold) and carries its own significant cost.
+Cooldown Management:
+~10 s cooldown restricts rapid successive launches; consider spacing attacks or combining with MIRV for sustained pressure.
+6. Advanced Tips
+SAM “Cooldown Bait”:
+Launch an Atom Bomb first, forcing enemy SAMs onto cooldown, then immediately follow with a Hydrogen Bomb to ensure passage of the larger blast.
+Concentration Strikes:
+Stack multiple Atom Bombs on a single Missile Silo to unleash rapid successive strikes before the enemy can rebuild defenses.
+Diversion & Feint:
+Use an Atom Bomb against a low-value cluster to draw SAM fire, then redirect a MIRV at a critical target in a different region.
+Mastering the Atom Bomb’s precise yield and timing will grant you the edge in dismantling enemy infrastructure efficiently and opening borders for your advance.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/buildings/hydrogen-bomb.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Hydrogen Bomb Guide for OpenFront.io
+Main Takeaway:
+The Hydrogen Bomb is the most powerful strategic weapon in OpenFront.io, capable of devastating large swaths of territory and manpower. Deploy it via a Missile Silo only in late–game scenarios when you have amassed at least 5 000 000 gold and sufficient defenses against enemy SAMs.
+1. Overview
+The Hydrogen Bomb is a late–game
+missile
+that delivers unparalleled destructive power to a target region. When launched from a Missile Silo, it:
+Sustains an aerial flight over long range before impact.
+Delivers a
+two‐stage blast
+: an inner devastation zone and a wider damage perimeter.
+Leaves radioactive
+fallout
+that reduces movement speed and defense of units in affected tiles.
+2. Requirements & Deployment
+Requirement
+Description
+Building prerequisite
+Missile Silo (must be constructed and cooled down)
+Gold cost
+5 000 000 gold
+Silo cooldown
+75 ticks (7.5 seconds)
+Tech prerequisites
+None beyond silo access
+To use:
+Build or upgrade a Missile Silo.
+Accumulate ≥ 5 000 000 gold.
+Select your target tile within range.
+Launch the Hydrogen Bomb.
+3. Flight & Interception
+Attribute
+Value
+Maximum range
+120 tiles
+Flight speed
+6 tiles/tick
+SAM interception range
+80 tiles
+SAM hit chance
+50% against warheads
+Enemy
+SAM Missiles
+and
+SAM Launchers
+can intercept your Hydrogen Bomb if positioned within 80 tiles of its path; they have a 50% chance to shoot down the warhead.
+4. Blast Characteristics
+The explosion comprises two concentric zones:
+Zone
+Radius (tiles)
+Effect
+Inner
+80
+Maximum destruction of units and buildings in zone.
+Outer
+100
+Partial destruction and heavy troop casualties beyond inner radius.
+Casualty calculation for humans in affected tiles uses:
+$$
+\text{troopLossFactor} = \frac{5 \times \text{humans}}{\max(1, \text{tilesOwned})}
+$$
+This yields severe manpower loss proportional to population density.
+5. Fallout Effects
+After detonation, all tiles within the
+outer radius
+become
+radioactive
+:
+Movement penalty:
+Units take longer to traverse fallout tiles.
+Defense reduction:
+Affected tiles suffer a defense modifier of $$5 - 2 \times \text{falloutRatio}$$, where falloutRatio is fraction of map contaminated.
+Fallout persists indefinitely, hindering both attacker and defender until remapped.
+6. Strategic Usage
+Timing:
+Deploy only in late game due to high cost and cooldown.
+Target selection:
+Aim for clusters of enemy SAMs or high-value territories—e.g., enemy capitals or chokepoints.
+Follow-up:
+Use conventional troops to occupy fallout zones, leveraging weakened defenses.
+Countermeasures:
+Enemy SAM coverage or MIRV barrages can thwart your hydrogen strike.
+7. Comparative Summary
+Weapon
+Cost (gold)
+Inner/Outer Radius
+Range
+Cooldown (s)
+Atom Bomb
+750 000
+12 / 30
+120
+7.5
+Hydrogen Bomb
+5 000 000
+80 / 100
+120
+7.5
+MIRV
+25 000 000
+25 / 30
+120
+7.5
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/buildings/port.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Ports Building Guide for OpenFront.io
+What Are Ports?
+Ports
+are one of the most important economic buildings in OpenFront.io. They are round-shaped, economic buildings that can only be built on land near water. Ports serve as the foundation of your nation’s naval economy, spawning trade ships and enabling the construction of warships.
+Building Requirements and Placement
+Placement Requirements
+Location
+: Ports must be built
+near water
+Terrain
+: Can only be placed on
+land tiles
+adjacent to water
+Building Type
+: Classified as an
+Economic Building (EB)
+with a round shape
+Water Access
+: Must have access to a water source to function properly
+Build Process
+To build a port:
+Right-click on the map to open the build menu
+Select the yellow wrench icon
+Choose the port from the economic buildings section
+Place it on a land tile that’s adjacent to water
+Cost Structure
+Ports use a
+doubling cost system
+with a maximum cap:
+Order
+Cost
+First Port
+125,000 gold
+Second Port
+250,000 gold
+Third Port
+500,000 gold
+Fourth Port and Beyond
+1,000,000 gold
+The cost doubles for each port you build until reaching the maximum price of 1,000,000 gold.
+Core Functions
+Trade Ship Generation
+Automatic Spawning
+:
+Ports check every
+10 ticks
+if they should spawn a trade ship
+Spawn rate formula:
+round(10 * Math.pow(numberOfPorts, 0.6))
+More ports in the game = higher spawn rates with diminishing returns
+Spawn rate is
+capped at 50
+Trade Ship Characteristics
+:
+Free to build
+and don’t count against unit limits
+Have a bright outline with a dark center appearance
+Automatically path to their destination port
+Trade Route Selection
+Ports follow specific
+priority rules
+when selecting trade partners:
+Only trade with other players
+(never with your own ports)
+Closer ports
+get
+double chance
+of being selected (proximity bonus)
+Allied ports
+get
+double chance
+of being selected
+Warship Construction
+Ports are
+required to build warships
+:
+Warships can only be built if you own at least one port
+When building a warship, it appears at the
+nearest owned port
+Warships cost: 250k (first), 500k (second), 750k (third), 1M+ (subsequent)
+Gold Generation System
+Distance-Based Formula
+Gold earned from trade is calculated using
+Manhattan distance
+:
+Formula
+:
+Gold = 10,000 + 150 * Math.pow(distance, 1.1)
+Where distance is the sum of absolute differences in X and Y coordinates between ports.
+Scaling Examples
+Close Trade (20 tiles apart)
+:
+Base gold: 10,000
+Distance bonus: 150 × (20^1.1) = 150 × 24.53 = 3,680
+Total: 13,680 gold each
+Long Distance Trade (200 tiles apart)
+:
+Base gold: 10,000
+Distance bonus: 150 × (200^1.1) = 150 × 316.23 = 47,434
+Total: 57,434 gold each
+This demonstrates
+superlinear scaling
+- the 200-tile route is 10x farther but generates 4.2x more gold, making long-distance trade extremely profitable.
+Strategic Considerations
+Optimal Placement
+Spread ports across maximum distances
+for higher trade profits
+Coastal control
+: Secure long coastlines to maximize port placement options
+Island hopping
+: Establish ports on distant islands for exponential trade gains
+River access
+: Inland areas with river access can still build ports
+Naval Defense
+Warship protection
+: Build warships to defend trade routes from enemy piracy
+Trade interception
+: Use warships to capture enemy trade ships
+Strategic positioning
+: Place ports in defensible locations to prevent enemy capture
+Economic Optimization
+Trade maximization
+: Focus on building ports before other expensive structures
+Alliance coordination
+: Ally with distant players for maximum trade profit
+Port quantity
+: More ports = more trade ships = exponential gold growth
+Interactions with Other Systems
+Naval Combat
+Warship spawning
+: All warships originate from ports
+Trade protection
+: Warships can defend trade ships from piracy
+Naval supremacy
+: Control of ports = control of naval warfare
+Alliance Benefits
+Allied trading
+: Allied ports receive
+double selection priority
+Trade safety
+: Allied warships won’t capture your trade ships
+Mutual benefit
+: Both source and destination port owners receive full gold amounts
+Defensive Vulnerabilities
+High-value targets
+: Ports are expensive and attractive targets for nuclear strikes
+Coastal exposure
+: Ports are vulnerable to naval attacks and amphibious assaults
+Economic disruption
+: Losing ports severely impacts trade income
+Advanced Strategies
+Port Maximization
+Advanced players often employ “
+port maxing
+” strategies:
+Build as many ports as possible across maximum distances
+Prioritize port construction over other buildings
+Create extensive trade networks for exponential gold generation
+Trade Route Optimization
+Distance optimization
+: Establish ports at maximum possible distances
+Network effects
+: More ports create more potential trade routes
+Geographic advantage
+: Utilize map features like islands and continents for spacing
+Naval Empire Building
+Maritime focus
+: Build naval-centric empires around port control
+Trade dominance
+: Use superior trade income to fund military expansion
+Piracy operations
+: Capture enemy trade for additional income
+Updated Mechanics
+Recent updates have enhanced port functionality:
+Betrayal consequences
+: Bombing allies stops trading for 5 minutes
+Distance calculation
+: Gold now calculated by actual ship travel distance rather than straight-line distance
+River restrictions
+: Warships can’t target trade ships within rivers
+Allied protection
+: Warships prevented from pirating trade ships destined for allied ports
+Ports represent the cornerstone of economic strategy in OpenFront.io, enabling massive gold generation through trade while providing essential naval capabilities. Mastering port placement, protection, and optimization is crucial for achieving economic dominance and ultimate victory in the game.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/buildings/city.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Cities Building Guide for OpenFront.io
+Cities
+are the cornerstone building type in OpenFront.io, serving as the primary mechanism for scaling your civilization’s population capacity and military power. This comprehensive guide covers everything you need to know about building, placing, and strategically utilizing cities to dominate the map.
+What Are Cities?
+Cities are
+Economic Buildings
+that appear as round-shaped structures and can only be built on land. They are accessed through the build menu by right-clicking on the map and selecting the yellow wrench icon. Cities serve one fundamental purpose:
+increasing your maximum population by exactly 25,000 troops
+.
+In OpenFront.io’s current meta, the game is described as “really really city-centric,” meaning that cities form the foundation of successful strategic gameplay. The difference between players with multiple cities versus those with few cities can determine the outcome of entire matches.
+City Costs and Progression
+Cities follow a
+progressive cost structure
+that becomes increasingly expensive with each additional city built:
+City Number
+Cost
+First City
+125,000 gold
+Second City
+250,000 gold
+Third City
+500,000 gold
+Fourth+ Cities
+1,000,000 gold each
+This escalating cost structure means that early cities provide exceptional value, while later cities require significant gold investment. The dramatic jump from 500,000 to 1,000,000 gold makes the first three cities particularly cost-effective.
+Strategic Importance and Timing
+Early Game Priority
+Cities should be your
+top priority
+in the early game. As one strategy guide emphasizes: “Build a city as soon as you reach 125k”. The reasoning is straightforward—cities directly translate to military power through increased population capacity.
+Professional players consistently demonstrate this principle. In tutorial videos, experienced players are shown “putting down cities as quick as they can” and treating city construction as “one of the most important things in Openfront.io right now”.
+Population Mechanics
+Understanding population mechanics is crucial for optimal city utilization. OpenFront.io features a
+population growth formula
+that is optimized when your current population is approximately
+41-42% of your maximum population capacity
+. This means:
+Maintaining around 40-50% population ensures maximum growth rate
+Cities increase your capacity, allowing for larger standing armies
+Higher population caps provide strategic flexibility for both expansion and defense
+The maximum population formula accounts for both land controlled and cities built, with each city contributing exactly 25,000 to the capacity.
+City Placement Strategy
+Strategic city placement is crucial for long-term success, as poorly placed cities become vulnerable targets that enemies can capture and use against you.
+Defensive Positioning
+Primary placement guidelines include
+:
+Place in the most defensible areas
+of your territory
+Keep cities away from exposed coasts
+where naval attacks can threaten them
+Avoid placement near navigable rivers
+that provide enemy access routes
+Keep cities far from other nations
+and potential conflict zones
+Never place cities on front lines
+where they can be easily captured
+Terrain Considerations
+While the game features three terrain types—
+Plains, Highlands, and Mountains
+—cities can be built on any land terrain. However, placement should prioritize defensibility over terrain bonuses, as losing a city to an enemy provides them with significant strategic advantage.
+Multiplayer Considerations
+In multiplayer games, city placement becomes even more critical. Players should consider:
+Distance from human players
+who pose greater threats than AI
+Natural barriers
+that can protect city locations
+Retreat paths
+if territories need to be abandoned
+Clustering vs. dispersal
+strategies based on map layout
+Advanced City Strategies
+Economic Integration
+Cities work synergistically with other economic buildings.
+Ports
+(which also follow a 125k/250k/500k/1M cost progression) generate trade income that can fund additional city construction. This creates a positive feedback loop where cities enable larger armies that capture more territory, generating more gold for additional cities.
+Military Scaling
+The 25,000 population increase per city has significant military implications. In a game where “if you’ve got a couple extra cities and your neighbor only has like two or three cities, that can make a huge difference,” this scaling advantage can determine match outcomes.
+Upgrade System (Future Updates)
+Recent development previews show an upcoming
+city upgrade system
+. This system will allow players to upgrade existing cities rather than building new ones, with each upgrade adding approximately 25,000 additional population capacity. Upgrades cost 1 million gold each and provide an alternative scaling path for late-game development.
+Common Mistakes and Best Practices
+Early Game Errors
+Delaying first city construction
+beyond 125k gold accumulation
+Building other structures before securing first city
+Poor initial placement
+in exposed or vulnerable locations
+Strategic Best Practices
+Prioritize cities over all other buildings
+in early expansion phases
+Plan city networks
+that can provide mutual defensive support
+Consider long-term territorial goals
+when placing cities
+Balance city investment
+with immediate military needs
+Advanced Techniques
+City clustering
+for concentrated defensive power
+Strategic spacing
+to cover maximum territorial control
+Economic timing
+to optimize gold flow for continuous city construction
+Integration with Overall Strategy
+Cities form the foundation of several key strategic elements in OpenFront.io:
+Population Management
+: Cities enable the optimal 40-50% population ratio that maximizes growth while maintaining offensive capability.
+Territorial Control
+: Higher population caps allow for larger armies that can capture and hold more territory, creating a positive expansion cycle.
+Economic Development
+: Cities support the gold generation needed for late-game technologies like missile silos, SAM launchers, and nuclear weapons.
+Diplomatic Leverage
+: Players with superior city infrastructure can negotiate from positions of strength, as their population advantage translates to military superiority.
+Cities represent the most fundamental building type in OpenFront.io, serving as the bedrock upon which all successful strategies are built. Mastering city construction timing, placement, and integration with other game mechanics is essential for achieving territorial domination and victory. The game’s city-centric design means that players who understand and optimize their city networks will consistently outperform those who neglect this crucial aspect of development.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/buildings/mirv.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Guide: MIRV (Multiple Independently-targetable Reentry Vehicle) in OpenFront.io
+Overview
+The
+MIRV
+is the most powerful nuclear weapon available in OpenFront.io. Upon deployment, it saturates an entire nation with dozens of sub-warheads, devastating territory and troop counts.
+Key Facts
+Cost:
+25,000,000 Gold
+Requires at least one
+Missile Silo
+Cannot be intercepted by SAM Launchers
+Prerequisites
+Missile Silo
+(Military Building, MB)
+Unlocks all nuclear weapons (Atom Bomb, Hydrogen Bomb, MIRV)
+Cost: 1,000,000 Gold
+Cooldown: None for MIRV launches
+Sufficient
+Gold Reserves
+(≥ 25 million)
+Control of non-water territory for silo placement
+Building & Launch Procedure
+Construct a Missile Silo
+Right-click on the map’s land pixel → Build Menu →
+Missile Silo
+.
+Ensure silos are positioned near your borders for minimal flight path delays.
+Acquire Gold
+Expand territory to increase trade-ship revenue.
+Build ports, trade routes, and cities to boost income.
+Select MIRV
+Right-click any non-water tile → Radial Menu → Build Menu →
+MIRV
+.
+The nearest Missile Silo auto-launches the MIRV.
+Targeting
+Choose the opponent nation’s land tile.
+MIRV travels northward, then disperses miniature warheads across the entire nation.
+Missile Behavior & Effects
+Flight Path
+: Upward toward the map’s north edge, then lateral dispersal.
+Interception
+: SAM Launchers cannot destroy MIRVs.
+Explosion
+: Hundreds of sub-warheads strike randomly, irradiating all impacted land and destroying most defending troops.
+Strategic Usage
+Offensive
+Snowball Prevention
+Use MIRV to reset a runaway opponent’s snowballing territory and troop advantage.
+Alliance Disruption
+Target key allied nations to fracture coalitions.
+Psychological Impact
+The threat of MIRV forces opponents to divert resources to missile silos and defense, opening opportunities elsewhere.
+Defensive Counterplay
+Pre-emptive Strikes
+Monitor opponent silo counts; if they approach > 1 silo, consider early aggression.
+Border Fortification
+Build
+Defense Posts
+around vulnerable borders to slow re-expansion post-MIRV.
+Economic Diversification
+Maintain multiple income streams (ports, factories) to rebuild quickly after devastation.
+Tips & Best Practices
+Silo Clustering
+Placing multiple silos close together ensures simultaneous launch if one is destroyed mid-flight.
+False Targets
+Deploy a visible silo as bait; hide MIRV silos elsewhere to catch enemies off-guard.
+Resource Timing
+Save up slowly; avoid spending on lower-tier nukes once a MIRV is within reach.
+Map Awareness
+On large maps, position silos centrally in your territory to minimize enemy shelling and launch delay.
+Conclusion
+Mastering the MIRV transforms territorial warfare in OpenFront.io. Its unparalleled destructive capability, combined with strategic timing and silo placement, can single-handedly swing the tides of any match. Use it wisely—both as a deterrent and a decisive weapon.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/buildings/defense-post.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Defense Post Guide for OpenFront.io
+Main Takeaway:
+The Defense Post is a pivotal structure for fortifying borders, imposing severe penalties on attackers within its range. Proper placement and timing of Defense Posts can dramatically slow enemy advances and secure key territories.
+Overview
+A
+Defense Post
+increases the defensive strength of nearby tiles, making them significantly harder for opponents to conquer. It is available from version 22.6 onward and can be constructed up to four times per player, with escalating costs.
+Construction and Cost
+Initial Cost:
+50 000 gold
+Cost Increment:
++50 000 gold per additional Defense Post built
+Maximum Cost:
+250 000 gold (for the fourth post)
+Build Time:
+50 ticks (5 seconds) per Defense Post
+Build Limit:
+4 posts per game session per player
+Territory Risk:
+Posts can be captured if an opponent conquers the tile they occupy.
+Mechanics and Range
+Defense Bonus:
+Provides a ×5 multiplier to the defense of all tiles within range
+Terrain Stacking:
+Mountains (×1.2 terrain modifier): yields a ×6 total defense bonus
+Plains (×0.9 terrain modifier): yields a ×4.5 total defense bonus
+Highlands (×1.0 terrain modifier): remains ×5 total defense bonus
+Range:
+Official wiki: 30 tiles using Manhattan distance (diamond-shaped area)
+Attacking guide (v23): 40 tiles using Euclidean distance (circular area)
+Stacking Rules:
+Multiple Defense Posts do
+not
+stack; only the nearest post applies its bonus to a given tile.
+Effects on Combat
+When an enemy attempts to conquer a tile within a Defense Post’s range:
+Attacker Losses Multiplied:
+×6 (i.e., +500% casualties)
+Attack Speed Reduced:
+−66% processing rate
+Sustained Attrition:
+Attacker loses double the troops per unit time while within range
+Single-Post Cap:
+Only the strongest applicable post affects attacks on any tile.
+Strategic Placement
+Vulnerable Borders:
+Position posts just inside your frontline to protect high-value cities and chokepoints.
+Terrain Advantage:
+Place posts in mountainous areas to maximize the defense bonus (×6).
+Choke Points & Passes:
+Cover narrow land bridges or mountain passes where attackers must funnel through.
+City Protection:
+Surround key cities—loss of border tiles can cascade into city capture.
+Counterplay and Limitations
+Flanking & Sea Routes:
+Attackers can bypass posts via naval invasions if unprotected at sea.
+Range Exploitation:
+Engage outside the post’s effective radius and then dash in to capture critical tiles before reinforcements arrive.
+Economic Pressure:
+Repeatedly building and replacing Defense Posts can drain gold reserves—coordinate defense with allies to share the burden.
+Advanced Tips
+Beginners should avoid early-game overinvestment in Defense Posts; focus on territorial expansion first.
+Experienced players often delay post construction until natural borders solidify, then reinforce selectively.
+Combine Defense Posts with terrain modifiers and allied buffer zones for layered defense.
+Monitor enemy troop compositions—high-volume assaults can still overwhelm static defenses if unsupported by counterattacks.
+With precise placement and timing, Defense Posts become force multipliers that shape the flow of conquest across the map.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/buildings/missile-silo.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Missile Silo Guide for OpenFront.io
+Main Takeaway:
+The Missile Silo is a late-game military building that unlocks strategic nuclear strikes. Proper placement, timing, and coordination with defenses (SAM Launchers and Defense Posts) are essential to maximize its impact.
+1. Overview
+The
+Missile Silo
+is a military building priced at
+1,000,000 gold
+. It serves exclusively to launch three types of strategic missiles:
+Atom Bomb
+: Small blast radius
+Hydrogen Bomb
+: Large blast radius
+MIRV
+: Multiple mini-warheads across a nation
+[Fact Source: OpenFront Miraheze Wiki]
+2. Construction Requirements
+Terrain: Land only
+Build menu: Right-click map → yellow wrench icon →
+Missile Silo
+Cost: 1,000,000 gold
+3. Missile Types & Effects
+Missile Type
+Cost per Launch
+Area of Effect
+Cooldown
+Atom Bomb
+750,000 gold
+Destroys small clusters of Cities, Ports, Defense Posts, or Missile Silos
+10 s
+Hydrogen Bomb
+5,000,000 gold
+Destroys large clusters of key structures
+10 s
+MIRV
+25,000,000 gold
+Scatters multiple Atom-sized blasts across target nation
+No cooldown
+Launch costs and cooldowns are defined in the
+Buildings
+page of the OpenFront Miraheze Wiki.
+4. Usage & Mechanics
+Targeting:
+Right-click on enemy territory pixel → building menu → select missile type.
+The nearest available Missile Silo will launch the strike.
+Reload Indicator:
+After firing, the silo flashes
+red
+for 8 seconds, indicating it is
+reloading
+and cannot fire again until this period ends.
+Defensive Countermeasures:
+SAM Launchers
+(Surface-to-Air Missile) have a
+75%
+chance to intercept Atom or Hydrogen Bombs within a 75-pixel radius; they cannot destroy MIRVs.
+Best practice: Surround high-value silos and cities with a network of SAMs and Defense Posts.
+“When a Missile Silo just launched a missile, it becomes red for 8 seconds…cannot be used.” (Missile Silo – OpenFront Miraheze Wiki)
+5. Strategic Considerations
+Timing:
+Use nuclear strikes to soften hardened defenses or disrupt enemy gold production by targeting Ports and Cities.
+Psychological Impact:
+A well-timed Hydrogen Bomb can break alliances or force opponents into reactive play.
+Synergy:
+Complement nuclear strikes with ground invasions; use Defense Posts to hold newly vacated pixels.
+Resource Management:
+Nuclear missiles are expensive; balance investment in silos versus conventional buildings like Cities (more population) and Ports (steady gold income).
+6. Example Build Order (Mid-Late Game)
+Establish
+3–4 Cities
+for population buffer.
+Build
+2–3 Ports
+to sustain gold flow (125k → 250k → 500k).
+Deploy
+2–3 SAM Launchers
+around forward borders.
+Construct
+1–2 Missile Silos
+in safe, inland pixels.
+Add
+Defense Posts
+along borders to deter incursions.
+Begin nuclear strikes once you have 1–2M+ gold reserves.
+7. Advanced Tips
+Feint Attacks:
+Launch Atom Bomb on minor targets to bait enemy SAM usage before a major Hydrogen Bomb strike.
+MIRV Barrage:
+Use a MIRV to saturate SAM coverage—a single MIRV can overwhelm multiple SAMs.
+Silhouette Management:
+Keep silos grouped but not adjacent; prevents a single enemy strike from disabling all launchers.
+Cooldown Cycling:
+Stagger silo reloads by launching at slightly different times, ensuring continuous nuclear availability.
+With precise execution, Missile Silos transform the battlefield in OpenFront.io—use them wisely to dominate mid-to-late game engagements.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics/enclosure.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Enclosure (Annexation) Guide for OpenFront.io
+Main Takeaway:
+Enclosure—also known as
+annexation
+—allows you to capture entire territories by fully surrounding them, bypassing protracted battles. Mastering enclosure accelerates expansion, conserves troops, and can swing the tide in your favor early and mid-game.
+1. What Is Enclosure?
+Enclosure occurs when you
+completely encircle
+an adjacent territory (bot or player) so that it has no open border connections. Once surrounded, the territory is instantly annexed—all its land transfers to you without further combat.
+2. Why Use Enclosure?
+Troop Efficiency:
+Annexation uses only the initial attacking stacks, with no additional losses afterward.
+Speed:
+Instant capture skips multi‐round exchanges.
+Map Control:
+Rapidly grows your land and resource generation.
+Psychological Impact:
+Surprising an opponent with enclosure can force them into defensive play.
+3. How to Execute Enclosure
+3.1. Preparation
+Build Population:
+– Raise your population to ≈ 40 – 50% of cap to maximize growth rate (peak at ~41%).
+Scout Terrain:
+– Press
+Spacebar
+to reveal terrain and neighboring territories; identify narrow fronts or chokepoints.
+3.2. Choosing the Target
+–
+Bots First:
+Ideal initial targets due to predictable, static borders.
+–
+Real Players:
+Wait until they’re engaged elsewhere or have stretched borders.
+3.3. Calculating Attack Size
+–
+Optimal Percentage:
+40 – 50% of your troops balances speed and losses; higher percentages move faster and suffer fewer casualties.
+–
+Attack Ratio Adjustment:
+In the attack panel, adjust your troops-to-worker ratio to maximize movement speed without crippling your economy.
+3.4. Executing the Enclosure
+Multi-Front Push:
+Simultaneously attack from all bordering sides of the target territory.
+Timing:
+Coordinate so all attacks land within the same tick, closing gaps instantly.
+Split Attacks:
+If terrain forces asymmetrical fronts, use smaller attacks on narrow sides to seal off escape routes.
+4. Advanced Enclosure Tactics
+Tactic
+Description
+Choke-Point Enclosure
+Use rivers, mountains, or coasts to reduce the number of fronts you must attack, sealing the territory more efficiently.
+Feint and Seal
+Send a small force as a
+feint
+on one side, drawing defenders, then launch your main enclosure force on the opposite front.
+Ally Buffer
+Form temporary alliances to occupy adjacent territories, preventing opponents from reinforcing the target you intend to enclose.
+Follow-Up Infrastructure Push
+After enclosure, immediately plant
+cities
+on newly acquired borders to raise your population cap and prepare for the next push.
+5. Defending Against Enclosure
+Maintain Open Exits:
+Always leave at least one border connection to a friendly or neutral territory.
+Defense Posts & SAMs:
+Defense Posts
+quintuple the cost of conquest around them—use them to protect chokepoints.
+SAM Launchers
+cannot prevent annexations but deter aerial bombardments during multi-front attacks.
+Alliances & Betrayals:
+Do
+not
+accept alliance requests from neighbors you suspect aim to enclose you—they gain a +50% casualty penalty on betrayal, leaving you vulnerable if you refuse.
+6. Common Pitfalls
+Oversized Attacks:
+Deploying > 60% of your troops slows movement drastically; use moderate percentages.
+Poor Timing:
+Staggered attack arrivals leave gaps for defenders to reinforce or counterattack.
+Ignoring Economy:
+Draining troops for enclosure can cripple gold income if your worker ratio falls too low.
+Citations
+“Openfront.io Beginner’s Guide: Mechanics, Tips, & Tricks,” YouTube, Jun. 30, 2025.
+“The ULTIMATE OpenFront.io Tutorial and Strategy Guide!,” YouTube, Apr. 29, 2025.
+“How to Play Openfront.io For Beginners (Tutorial),” YouTube, Jun. 05, 2025.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics/hotkeys.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+OpenFront.io Hotkeys Guide
+Mastering keyboard shortcuts in OpenFront.io dramatically improves your efficiency and strategic control. This guide covers all default hotkeys for camera movement, zooming, view toggling, build/menu actions, attack controls, and UI adjustments.
+1. Camera Movement
+Hotkey
+Action
+W
+Pan camera north
+A
+Pan camera west
+S
+Pan camera south
+D
+Pan camera east
+C
+Center camera on your territory
+(These mirror standard RTS WASD controls for intuitive navigation.)
+2. Zoom Controls
+Hotkey
+Action
+Q or –
+Zoom out
+E or +
+Zoom in
+Mouse Scroll
+Zoom in/out
+Quickly adjust your view to plan long-range attacks or examine front-line skirmishes.
+3. View Toggles
+Hotkey
+Action
+Space
+Toggle alternate terrain/country view
+X
+Toggle overlay of country names and borders
+Switching to terrain view reveals elevation and chokepoints for strategic planning.
+4. Build Menu & Actions
+Mouse / Hotkey
+Action
+Right-click
+Open radial build menu
+Ctrl + Left-click
+Open radial build menu (alternative)
+Number keys (1–5)*
+Directly select build submenu (cities, ports, defenses, silos, SAMs)
+Click build icon
+Build selected structure on highlighted tile
+Default radial menu positions:
+1: Cities, 2: Ports, 3: Defense Posts, 4: Missile Silos, 5: SAM Launchers.
+5. Attack & Deployment
+Hotkey
+Action
+Left-click (hold)
+Deploy troops to target territory
+Shift + Scroll Wheel
+Adjust percentage of troops sent per attack
+1
+Decrease attack ratio
+2
+Increase attack ratio
+Fine-tune your attack sizes to avoid overextension or wasted forces.
+6. Special Actions
+Hotkey
+Action
+R
+Send warship (requires port)
+T
+Launch atom bomb (requires silo)
+Y
+Launch hydrogen bomb (requires silo)
+U
+Launch MIRV (requires silo)
+X
+Initiate naval invasion (while over sea)
+V
+Betray or leave alliance with selected player
+B
+View player information popup
+Alt + R
+Reset graphics (fix visual glitches)
+7. UI & Miscellaneous
+Hotkey
+Action
+Esc
+Cancel current action / close menus
+Alt + P
+Pause/unpause game simulation
+M
+Calibrate AutoHotkey script (if used)
+O / P
+Decrease / increase AutoHotkey delay
+Parameters M, O, P apply only if using community AutoHotkey scripts for custom binding customization.
+8. Customization & Community Scripts
+While the above are the
+default
+in-browser controls, many players use the [OpenFront-Hotkeys AutoHotkey script] for advanced remapping. Edit its
+config.ini
+to personalize keys for building, attacking, or UI commands.
+Pro Tip:
+Memorize the WASD camera controls and zoom keys first; these are used every moment of gameplay. Layer in build and special hotkeys as you gain familiarity with the interface.
+Enjoy faster, smoother command execution and dominate the map with precision!
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics/attacking.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Expanding Effectively in OpenFront.io
+Key Takeaway:
+Success in OpenFront.io hinges on
+balanced expansion
+, combining rapid territorial growth with strategic consolidation—optimizing your population growth rate at ~42%, leveraging annexations, and fortifying key borders with cities and defense posts.
+1. Fundamentals of Expansion
+1.1 Territory and Population
+Tiles Owned:
+Each tile you control increases your maximum population cap.
+Cities:
+Upgrading and building cities adds +25,000 troop capacity per level.
+Population Growth Curve:
+Growth per tick follows a bell curve optimized when current population ≈42% of max.
+1.2 Workers vs. Troops
+Workers
+grow your population ~30% faster and generate gold but cannot defend.
+Troops
+defend and conquer but slow growth when committed.
+Optimal Split:
+Beginners should start at ~50% workers; adjust toward 60–70% workers as you master timing.
+2. Early-Game Expansion (“Wildlands Phase”)
+2.1 Targeting Bots
+Focus on
+small, isolated bots
+first to maximize annexation opportunities and snowball early troops.
+Annexation Rule:
+Surround bot territories fully (no tile touching water/map edge) to instantly absorb them.
+2.2 Timing Attacks
+Commit ~50% of your current max population to initial attacks to stay near the 42% growth sweet spot.
+Pause expansion briefly after capturing wildlands to build workers and cities before pushing deeper.
+3. Mid-Game Consolidation
+3.1 City Placement
+Place cities on high-traffic borders to boost cap where you need defense most.
+Balance city levels—higher levels yield more capacity but cost exponentially more gold.
+3.2 Defense Posts
+Build defense posts covering chokepoints; range = 40 tiles (Euclidean).
+Within a post’s range, attackers suffer ×6 troop loss and –66% attack speed.
+3.3 Trade and Naval Control
+Construct ports on coasts to start trade routes—gold income helps fund cities and nukes.
+Use warships to intercept enemy trade ships and deny rivals economy.
+4. Late-Game Domination
+4.1 Nukes and Bombs
+Hydrogen bombs (large radius) destabilize opponent population clusters.
+MIRV nukes target specific enemy players for surgical strikes.
+4.2 Alliance Management
+Maintain alliances to secure flanks; betraying allies flags you as a traitor, giving attackers –50% losses when they strike you for 30 s.
+Time betrayals just before a major push to avoid traitor penalty during your offensive.
+4.3 Final Push
+Consolidate all free tiles under your flag; only then surge troop percentage to >80% for a sweeping final conquest.
+Coordinate naval and land attacks to overwhelm defenders.
+By mastering the
+42% population growth optimum
+, judicious
+annexations
+, and strategic use of
+defensive structures
+, players can expand efficiently while sustaining robust economies and defensive capabilities.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics/winning.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+OpenFront.io Winning Guide
+Main Takeaway:
+Mastering OpenFront.io requires
+phase-specific strategies
+—from securing an optimal start and efficient early expansion to leveraging alliances and infrastructure in the midgame, and executing precise nuclear and naval operations in the endgame.
+1. Introduction
+OpenFront.io is a browser-based real-time strategy game focused on territorial control, resource management, and strategic alliances. Victory is achieved by capturing 100% of the map (or 72% in shorter matches) or reducing all opponents to 0% territory.
+2. Early Game Strategy
+2.1 Starting Position
+Choose low-density regions
+with ample grasslands: corners and edges reduce early threats, while central spots offer expansion via alliances.
+Prioritize proximity to unoccupied lands for swift annexation.
+2.2 Opening Moves
+Balance expansion with population growth.
+Aim to keep current manpower between 30–50% of cap for fastest recovery; push to ~75% only when planning a major blitzkrieg.
+Annex bots via encirclement:
+Surrounding a bot territory causes instant surrender (“Thanos snap”). Smaller bots should be targeted first to maximize efficiency and gold gain.
+2.3 Building Infrastructure
+Cities
+increase population cap by +25 000 each—build them early to sustain large armies.
+Ports
+unlock naval units and trade routes; place them before midgame to boost gold income.
+Defense posts
+(range 40 tiles) deter enemy attacks: they multiply attacker losses by 6× and slow attack speed by 66% when within range.
+3. Midgame Strategy
+3.1 Population and Attack Ratios
+Adjust the
+red bar
+(attack ratio) and
+blue bar
+(troop vs. worker split) to maintain a growth-efficient bell curve: maximum troop generation occurs around 50% population cap.
+3.2 Alliance and Diplomacy
+Peace treaties
+secure borders and enable trade.
+Forge alliances with human players and NPCs to focus on common enemies and share trade benefits.
+3.3 Naval Dominance
+Warships
+control sea lanes and enable island assaults.
+Prioritize the first few ports and a minimal fleet to deny opponents maritime mobility.
+3.4 Staggered Attacks
+Staggering attacks around your population peak prevents downtime in manpower recovery, maintaining offensive pressure without crippling your growth.
+4. Late Game & Endgame
+4.1 Nuclear Warfare
+MIRV
+(nuclear strikes) can eliminate up to 99% of an opponent’s troops and territory.
+Deploy
+SAM bunkers
+in late game to intercept incoming nukes; staggering their cooldowns ensures continuous coverage.
+4.2 Final Push
+Avoid overextension; focus on targets that yield annexations or cripple rivals’ key infrastructure.
+Let opponents weaken each other with nuclear exchanges, then strike the survivor for the final 80–100% win condition.
+5. Advanced Tips
+Tip
+Effectiveness
+Encircle bots
+Instant bot surrender; rapid land gain
+Early city rush
+Boosts population cap; enables sustained military production
+Stagger SAM cooldowns
+Continuous nuclear defense; prevents surprise mass nukes
+Use defense posts at chokepoints
+Maximizes defensive multiplier; deters frontal attacks
+Adjust attack ratio dynamically
+Maintains optimal manpower growth; prevents recovery lulls
+Prioritize ports near contested zones
+Secures trade; provides naval mobility and surprise coastal strikes
+6. Conclusion
+By tailoring your play to the three core phases—
+early expansion
+,
+midgame infrastructure and alliances
+, and
+endgame nuclear/naval warfare
+—you can consistently achieve victories in OpenFront.io. Meticulous resource balancing, geographical awareness, and tactical use of infrastructure and nukes separate champions from novices. Good luck on the battlefield!
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics/alliances.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Guide to Alliances in OpenFront.io
+Alliances in OpenFront.io are a powerful diplomatic tool that can secure your borders, boost your economy, and shape the balance of power on any map. This guide covers everything you need to know—mechanics, strategy, etiquette, and common pitfalls—so you can form and leverage alliances effectively.
+1. Alliance Basics
+1.1 Forming and Breaking Alliances
+In
+Free for All
+mode:
+Right-click a player’s territory and select the handshake icon to
+offer an alliance
+.
+If accepted, you become allies immediately.
+In
+Teams
+mode:
+You are automatically allied with players of your color and cannot betray teammates.
+An alliance
+lasts 10 minutes
+and can be renewed by mutual agreement.
+1.2 Effects of Alliances
+Being allied confers several benefits:
+Priority trade
+: Trade ships favor allied ports.
+Friendly fire disabled
+: Ground and naval units ignore allied territory.
+No sea capture
+: Your warships will not seize allied trade ships.
+Reinforcements
+: You can send troops or gold directly to an ally.
+Breaking an alliance triggers
+Traitor
+status for 30 seconds:
+50% defense penalty for the betrayer.
+Automatic embargo on trade until manually lifted or alliance restored.
+Traitor count increases.
+2. Strategic Considerations
+2.1 Choosing Allies
+Assess power balance
+: Ally stronger neighbors to deter aggression, or weaker ones to expand influence.
+Terrain synergy
+: On chokepoint maps, ally players who cover vulnerable flanks, e.g., mountainous borders.
+Trade networks
+: Secure allies with strong naval presence to maximize gold flow via ports.
+2.2 Timing and Renewal
+Early game
+: Form quick non-aggression pacts to focus on snowballing land captures.
+Mid-game
+: Renew alliances before the 10-minute timer elapses; track durations on the info bar.
+Endgame
+: Use alliance windows to coordinate mass assaults or safe annexations.
+2.3 Coordinated Offense and Defense
+Joint attacks
+: Synchronize troop donations and defense posts to bolster a shared border.
+Defense posts
+: Place posts on border segments vulnerable to allied aggression to dissuade betrayal.
+Troop donations
+: Send reinforcements to allies under heavy attack to maintain mutual strength.
+3. Etiquette and Common Pitfalls
+3.1 Betrayal Tactics
+A known exploit is
+attacking an offeror
+for a border strip, then accepting the alliance to retain the gains. This can be countered by:
+Waiting to accept alliances until after the attacker’s troops withdraw.
+Observing troop movements: do not accept while under attack.
+3.2 Trust and Reputation
+Frequent betrayals mark you as untrustworthy; allies may refuse future offers.
+Use public chat or voice channels to build credibility and coordinate reliably.
+4. Advanced Tips
+Tip
+Benefit
+Send 1% naval probes post-alliance
+Test allied warship placements and reveal vulnerabilities.
+Stack ports with allies
+Create a joint trade corridor to starve enemies of gold.
+Rotate alliance partners
+Maintain fresh diplomatic ties to prevent collusion against you.
+5. Summary
+Alliances in OpenFront.io are
+temporary but potent
+. Use them to secure borders, share resources, and execute coordinated strategies. Always monitor alliance timers, communicate intentions, and guard against betrayal tactics to make the most of every handshake.
+Enjoy forging—and sometimes breaking—alliances to dominate your next match!
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics/population-growth.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Population Growth Guide for OpenFront.io
+Key Takeaway:
+To maximize population growth in OpenFront.io, manage your
+maximum population cap
+via territory and cities, maintain your
+current population
+at the
+optimal growth ratio
+(≈ 40–50% of cap), and balance
+workers vs. troops
+allocation for both economic gain and defense.
+1. Maximum Population Cap
+Your
+maximum population cap
+determines the upper limit of combined workers and troops you can sustain. Two primary factors affect it:
+Tiles Owned
+Each tile under your control contributes to your cap. Expanding territory early increases your cap, enabling higher growth potential.
+Cities
+Building a City structure adds
++25,000
+to your cap per level:
+City Level
+Added Cap
+Cost
+First
+25,000
+125,000 G
+Second
+25,000
+250,000 G
+Third
+25,000
+500,000 G
+Beyond Third
+25,000
+1,000,000 G
+Each subsequent city level costs roughly double the previous.
+2. Population Growth Curve
+Population growth per tick follows a
+bell-curve function
+based on the ratio $$r$$ of
+current population
+to
+max cap
+. Growth is maximized at approximately
+41% of cap
+in current versions (v23) and recently shifted to
+50%
+in newer updates.
+When $$r < r_\text{optimal}$$, growth rate (green indicator) increases as $$r$$ approaches $$r_\text{optimal}$$.
+When $$r > r_\text{optimal}$$, growth rate (yellow/orange indicator) decreases.
+Practical Guideline:
+Aim to keep your population between
+35%–55%
+of cap, ideally cycling close to the
+40–50%
+sweet spot during peacetime for fastest recovery.
+3. Workers vs. Troops
+Population divides into:
+Workers
+Generate gold over time.
+Reproduce ~30% faster than troops.
+Contribute fully to growth curve when idle.
+Troops
+Provide defense and offensive power.
+Do
+not
+grow while committed to attacks or stationed as defense posts.
+Subtract from the idle population pool, reducing growth rate.
+Strategic Balance:
+Early game:
+≈ 50%
+of idle pop as workers to accelerate cap and gold.
+Mid to late game: Adjust to
+30–40%
+workers when defensive pressure rises, ensuring enough troops while sustaining growth.
+4. Attack Ratio and Growth Impact
+The
+attack ratio
+slider determines what fraction of your population is sent in assaults. Note:
+High attack ratio (> 80%)
+severely reduces idle pop, hindering growth until recovery.
+Low attack ratio (< 20%)
+underutilizes troops, missing expansion opportunities.
+Recommendation:
+Maintain attack ratios of
+20–50%
+, scheduling assaults when your population is in the
+green growth zone
+to minimize recovery downtime.
+5. Practical Tips
+Early Expansion:
+Capture unclaimed tiles to boost cap.
+Build first Cities only after securing territory.
+Cap Management:
+Monitor cap vs. pop gauge; avoid hitting cap (growth stalls).
+Plan City builds when approaching cap.
+Dynamic Allocation:
+Increase worker percentage when idle and in low-risk phases.
+Shift to troop-heavy allocations before major battles.
+Use Growth Indicator:
+Green
+= growth accelerating; ideal time to hold or build Cities.
+Yellow/Red
+= growth slowing; avoid large attacks until back in green.
+Leverage Defense Posts:
+Fortify borders using Defense Posts (strength ×5) to protect idle pop and maintain growth base.
+By combining
+territorial expansion
+,
+City construction
+, and
+optimal idle population ratios
+, you can sustain rapid population growth, generate gold efficiently, and maintain military readiness—key components for victory in OpenFront.io.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics/bots.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+OpenFront.io Bots Guide
+Overview
+In OpenFront.io,
+bots
+are non-player countries used to fill the map, slowing player expansion and creating dynamic encounters. Every public game spawns 400 bots by default, each with unique two-word names and no custom flags. Bots never build cities or ships—they only expand by sending small, steady attacks into neighboring tiles.
+Bot Behavior
+Static Spawn
+Bots appear at random locations, evenly spaced, before the game begins.
+They never relocate once placed.
+Expansion
+Bots send minimal-sized attacks (often 1 – 5% of their population) at adjacent neutral tiles.
+They never construct buildings or transport units; any city or port they possess was conquered from another country.
+Aggression Level
+Predictable and low: players rarely need to fear a sudden large-scale bot offensive—unless they “full-send” into a bot and allow it to rebuild behind them.
+Game Modes & Bot Settings
+Public Multiplayer
+400 bots fixed; players compete for land and gold against both human opponents and bots.
+Single Player
+Default bot count is 400; adjustable via slider in the lobby.
+Reducing bots speeds up expansion; setting to zero removes bots entirely, leaving only nations and human players.
+Bot Difficulty Variants
+Normal Bots
+Standard behavior as above.
+Impossible Bots
+Enhanced starting populations (e.g., 100 K troops) and faster expansion rates.
+Treat as human-level opponents: prioritize early city building and tactical encirclement to contain them.
+Counter-Bot Strategies
+Strategy
+Early Game (Tiles < 50)
+Mid/Late Game (Tiles > 50)
+Attack Ratio
+50% of max troops
+20% of max troops
+Worker Percentage
+~50% to balance growth & offense
+Increase only if secure front
+Encirclement
+Surround isolated bots to prevent reinforcement
+Link encircled bots with cities/ports to starve their gold income
+Port Priority
+Build 1st port after second city
+Maintain ports on bot-heavy coasts
+City Placement
+Build on neutral gold tiles early
+Upgrade existing cities to boost population cap
+50% Attack Push
+Using half your troops maximizes territory gain while preserving population growth, crucial when bots pack lightly defended tiles.
+20% Follow-Up
+After initial expansion, switch to 20% attacks to steadily grind down bot holdings without overextending.
+Encircle & Starve
+Quickly circle a bot’s territory, then build a city or port on the encirclement line. This cuts off its gold and reinforcements, making it trivial to mop up later.
+Prioritize Cities
+Early cities raise the population cap, fueling future attacks. Aim for at least two cities before aggressive pushes into Impossible Bot zones.
+Port Control
+On maps with water, securing a port grants sea lanes for surprise attacks on bot-isolated islands or coasts.
+Advanced Tips
+Bot Name Recognition
+Bots use two random words (e.g., “Blue Tiger”); no custom flags—identifying them by flag absence helps target weaker foes.
+Difficulty Correlation
+In single-player, increasing difficulty may subtly boost bot aggression or initial populations, though exact modifiers are undocumented.
+Tradeoffs
+Removing bots entirely speeds games but eliminates early-game resistance and gold sources from bot-conquered ports.
+Adhering to these tactics will render bots predictable obstacles rather than frustrating roadblocks. Mastering the
+50%/20% attack rhythm
+,
+encirclement
+, and
+city-port
+prioritization turns every bot-filled map into an opportunity for rapid, controlled expansion.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics/trade.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Trade Guide for OpenFront.io
+Dominate the mid- to late-game economy by mastering trade: build Ports, establish alliances, and maximize gold through strategic trade routes and naval actions.
+1. Building and Upgrading Ports
+Players must construct Ports on coastal tiles to unlock trade and naval options:
+First Port cost
+: 125 000 gold; each subsequent Port doubles in cost until reaching 1 000 000 gold.
+Ports enable:
+Automatic spawning of Trade Ships
+Construction of Warships (Destroyers and Battleships)
+2. Trade Ship Spawning and Routing
+Every 10 ticks, each Port attempts to spawn a Trade Ship, with spawn rate
+tradeShipSpawnRate = round(10 × (numberOfPorts)^0.6)
+(diminishing returns cap spawn rate at 50).
+Trade partners are selected among other players’ Ports, prioritized by:
+Alliance status
+: allied Ports have double chance
+Proximity
+: closer Ports have double chance
+Trade Ships travel automatically along the shortest path to their destination Port.
+3. Gold Generation and Scaling
+Upon arrival, each Trade Ship grants gold to both origin and destination owners:
+Gold = 10 000 + 150 × (distance^1.1)
+(distance measured by Manhattan metric)
+Short route example (20 tiles)
+: 10 000 + 150 × 20^1.1 ≈ 13 680 gold
+Long route example (200 tiles)
+: 10 000 + 150 × 200^1.1 ≈ 57 434 gold
+Longer routes yield
+superlinear
+returns, incentivizing distant alliances.
+Route Length
+Gold per Ship
+20 tiles
+13 680
+200 tiles
+57 434
+4. Protecting and Pirating Trade Ships
+Safe zones
+: within a few tiles of any shoreline, Trade Ships become “safe from pirates,” immune to capture.
+Piracy
+: outside safe zones, enemy Destroyers can capture Trade Ships.
+Captor receives full gold bounty
+Ship re-routes to captor’s nearest Port (or removed if none exist)
+5. Warships for Trade Control
+Destroyers
+: fast, used to intercept and capture enemy Trade Ships.
+Battleships
+: slow but ranged, effective at protecting your Trade Ships and deterring enemy Destroyers.
+Use a combination of both to secure your trade lanes and cut off opponents’ income.
+6. Strategic Recommendations
+Early Port priority
+: aim for your first Port as soon as you have ~125 000 gold to kickstart trade income.
+Long-distance alliances
+: ally with distant players to maximize route length and gold yield.
+Naval presence
+: station a mix of Destroyers and Battleships along key routes to both protect your Trade Ships and harass opponents.
+Port placement
+: build Ports on map chokepoints or near friendly shores to increase piracy protection.
+Port count vs. cost
+: balance spawning rate benefits against exponentially rising Port costs; generally, 2–4 well-placed Ports outperform many high-cost Ports.
+By leveraging these mechanics—efficient Port building, strategic alliances, and naval warfare—you can turn trade into a decisive economic engine and outpace rivals in OpenFront.io.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics/attack-ratio.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Attack Ratio Guide for OpenFront.io
+Main Recommendation:
+To balance rapid expansion with sustainable growth, use an attack ratio of
+50%
+during early bot engagements and transition to
+20–30%
+against human players and fortified opponents.
+1. Understanding Attack Ratio
+The
+attack ratio
+determines what fraction of your available troops you commit when initiating an attack.
+A 1% ratio sends 1% of your troops; a 100% ratio sends your entire force.
+Adjust the ratio via the slider (Shift + Scroll Wheel) or hotkeys (
+1
+to decrease,
+2
+to increase) .
+2. Impact on Combat Speed
+Attack speed (tiles conquered per tick) scales with the attacker-to-defender size ratio:
+For every 1% increase in attacker size (relative to defender troops), speed increases by:
+0.5% per 1%
+ratio increase when attacker force is between 5% and 10× the defender’s size
+0.1% per 1%
+ratio increase when attacker exceeds 10× defender size
+No speed bonus if attacker is smaller than 5% of defender troops
+(speed is also modified by terrain and empire size) .
+3. Impact on Troop Losses
+Troop losses per tick are governed by the
+Troop Ratio Factor
+, terrain, and a fixed 20% attacker bonus:
+Troop Ratio Factor
+= max(min(defender_troops / attacking_troops, 2), 0.6)
+Attacking with less than half defender troops → factor hits
+2×
+(higher losses)
+Attacking with ≥166% of defender troops → factor hits
+0.6×
+(minimum losses)
+Attacker Troop Loss
+= Troop Ratio Factor × Terrain Multiplier × 0.8 (attacker bonus) × Size Penalty × Traitor Penalty .
+To minimize losses, ensure your committed troops ≥166% of defender troops (ratio ≈ 1.66).
+4. Speed vs. Efficiency Trade-Off
+High attack ratios yield faster conquests but can deplete your shield (defending garrison) and slow population growth. Lower ratios conserve troops and shield but slow expansion.
+Attack Ratio
+Speed Bonus
+Loss Efficiency
+Recommended Use
+50%
+Moderate (+25%)
+Acceptable (Troop Ratio Factor≈1–1.2×)
+Early bot farming; balance growth vs. speed
+20–30%
+Small (+10–15%)
+Efficient (minimize shield loss)
+Mid-game human engagements; node skirmishes
+≥166%
+Max
+(+83%–100%)
+Minimum losses
+(0.6× factor)
+Quick snipes on key targets; decisive strikes
+5. Terrain & Empire Size Modifiers
+Terrain Multipliers
+Plains: –15% troop losses, +10% speed
+Highlands: baseline
+Mountains: +20% troop losses, –25% speed
+Size Penalty
+Empires >100 000 tiles gain √(100 000 / tiles) reduction in losses
+Empires >75 000 tiles incur slower conquest speed via (75 000 / tiles)^0.6 .
+6. Practical Recommendations
+Early Expansion (Bots & Wilderness)
+Use
+50% ratio
+against bots to farm quickly while retaining growth.
+Exploit wilderness with high ratios for rapid tile gains (no defender losses) [Combat Against Wilderness].
+Mid-Game Engagements
+Lower ratio to
+20–30%
+when contesting human players or strong bots to preserve shield and growth.
+Decisive Strikes
+Commit ≥166% ratio to
+snipe
+high-value enemy cities or break alliances swiftly with minimum losses.
+Dynamic Adjustment
+Monitor population growth bell curve (~42% of max pop) and adjust worker vs. troop ratios accordingly.
+Rebalance attack ratio as your empire and frontline change.
+7. Control Shortcuts
+Shift + Scroll Wheel
+: Fine-tune attack ratio
+1 / 2
+: Decrease / Increase ratio in preset steps
+Left Click
+: Attack with current ratio
+Citations:
+Attack speed and losses mechanics detailed in the Combat and Attacking Guide pages .
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics/starting-position.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Guide to Choosing the Best Starting Position in OpenFront.io
+The choice of starting position in OpenFront.io can
+make or break
+your early-game snowball. Selecting terrain that maximizes your expansion potential while minimizing early threats will set the stage for a dominant performance. This guide covers the fundamental factors to consider and presents recommended spawn types, illustrated with examples.
+Key Factors in Spawn Selection
+Terrain Type
+Plains (Grasslands):
+Lowest capture cost. Ideal for rapid expansion and population growth.
+Highlands (Hills):
+Moderate cost; use only if plains are unavailable.
+Mountains:
+Highest cost; generally
+avoid
+as a primary spawn unless you seek defensive advantage at the expense of growth.
+Proximity to Other Players
+Far from Opponents:
+Reduces early PvP skirmishes, allowing you to focus on PvE against bots.
+Too Isolated:
+May limit immediate unoccupied lands and bot targets.
+Map Location
+Corners & Edges:
+Advantages:
+One fewer flank to defend.
+Trade-off:
+Fewer adjacent unoccupied tiles, slowing expansion.
+Center:
+Advantages:
+Maximum access to unoccupied lands and bots in multiple directions.
+Trade-off:
+Surrounded on all sides; requires alliances or rapid blitz.
+Bot Tier Proximity
+Bots spawn in two tiers:
+Lower-tier bots
+have less starting manpower; prioritize encircling them.
+Higher-tier bots
+cost more to conquer later; deprioritize until you have surplus manpower.
+Recommended Spawn Categories
+Spawn Type
+Terrain Preference
+Threat Profile
+Expansion Rate
+Strategy
+Plains Corner
+Plains
+Low
+Moderate
+Secure bots on two sides; turtle with defense posts then expand along border.
+Plains Edge
+Plains
+Moderate
+High
+Capture adjacent bots quickly; use edge as natural barrier.
+Plains Center
+Plains
+High
+Very High
+Blitz multiple bots; form alliances to mitigate multi-front pressure.
+Highland Edge
+Highlands
+Moderate
+Moderate
+Accept slightly higher cost for added natural defense.
+Mountain Corner
+Mountains
+Very Low
+Slow
+Defensive opening; build up population behind fortifications.
+Spawn Selection Checklist
+Scan for Plains
+within your view before clicking.
+Identify Nearby Bots:
+Prioritize clusters of low-tier bots you can encircle.
+Assess Player Density:
+Choose a gap between other players wherever possible.
+Decide Flank Configuration:
+Corner if you value safety.
+Center if you value rapid growth and can secure alliances.
+Finalize Spawn:
+Click to lock in once conditions match your preferred profile.
+Execution After Spawning
+Opening Expansion
+Maintain manpower at 30–50% of cap for optimal growth; surge to ~75% when preparing a blitz.
+Expand into unoccupied plains immediately.
+Rushing Bots
+Wait for sufficient manpower to avoid penalties from under-strength pushes.
+Simultaneously attack multiple bots when possible.
+Encircled bots surrender instantly—aim to cut off their only escape route.
+Transition to Mid Game
+Once bots are cleared, pivot to PvP or secure trade routes via ports.
+Build cities to raise population cap and defense posts on vulnerable borders.
+Choosing the right starting position
+—combining terrain, map location, and bot proximity—
+enables a powerful early-game snowball
+. Use corners and edges for safer, steadier growth, or center positions for explosive expansion when you can manage multiple fronts.
+Citations
+OpenFront.io Wiki: “Starting Position Choice” in
+Early Game
+section.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics/defending.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+OpenFront.io Defense Guide
+Main Takeaway:
+Effective defense in OpenFront.io hinges on leveraging terrain advantages, judicious placement of Defense Posts, and integrating supportive structures (SAM Launchers, Missile Silos) into a cohesive border-fortification strategy.
+1. Defense Fundamentals
+OpenFront’s combat mechanics inherently favor defenders:
+Defender Loss Formula:
+$$ \text{Defender Loss/tick} = \frac{\text{Defender Troops}}{\text{Tiles Owned}} $$
+Attacker Loss Formula:
+$$ \text{Attacker Loss/tick} = \text{Troop Ratio Factor} \times \text{Terrain Multiplier} \times 0.8 \times \text{Size Modifier} \times (\text{Traitor? }0.5:1) $$
+Key Implication:
+Attacks against small empires incur high ratio losses; defenders on few tiles take heavier losses per tile than large empires.
+Press Spacebar to overlay terrain.
+Terrain confers multipliers:
+Plains: 0.85× losses, +17.5% speed
+Highlands: 1.00× losses, base speed
+Mountains: 1.20× losses, –25% speed
+2. Terrain-Driven Defense
+Hold High Ground:
+Station troops on mountains or highlands to increase attacker losses by up to 20% and slow their conquest.
+Choke Points:
+Use narrow passages (e.g., mountain gaps) to funnel attacks into kill zones.
+Wilderness as Buffer:
+Expand into unclaimed land early to create a safe perimeter; attacker losses on wilderness are fixed by terrain without base reduction (20–24 troops/tick).
+3. Defense Posts**
+Building Stats
+Cost: 50 000 → +50 000 (max 250 000)
+Build time: 5 s (50 ticks)
+Range: 30 tiles (diamond shape, Manhattan distance)
+Stacks with terrain:
+Mountains: 6× total defense
+Highlands: 5×
+Plains: 4.5×
+Multiple posts do
+not
+stack
+Best Practices
+Key Borders:
+Place posts at vulnerable frontiers with enemy adjacency.
+Terrain Synergy:
+Build in mountains to maximize 6× defense.
+Depth Layering:
+Stagger posts ~30 tiles apart to cover successive border rings.
+Economy vs. Defense:
+Early game posts offer diminishing returns; prioritize when under direct threat.
+4. Anti-Missile Layer**
+SAM Launcher:
+Destroys 75% of incoming Atom/Hydrogen bombs; cooldown 7.5 s; cannot intercept MIRVs.
+Missile Silo:
+Enables your own nukes; place safely behind Defense Posts to deter “nuke rush”.
+SAM Net Strategy:
+Arrange SAMs in a web covering high-value cities and silos. Late-game “SAM nets” around island clusters or peninsulas make MIRV strikes prohibitively costly for attackers.
+5. Dynamic Border Management
+Troop Reserves:
+Keep a mobile reserve behind posts to reinforce breached tiles.
+Traitormeter Awareness:
+Betrayed allies suffer 50% increased attacker losses for 30 s; use non-aggression pacts to safely reinforce borders and avoid “traitor” debuffs.
+Alliances & Betrayal:
+Defensive pacts can free resources for other fronts; timing betrayals to coincide with major engagements maximizes defense.
+6. Early-Game Turtle & Expansion
+Annexations:
+Surround isolated bots to annex multiple tiles instantly.
+Balanced Growth:
+Expand into wilderness until ~50% population, then switch to fortifying vulnerable borders with 30–40% troop pushes.
+Selective Posts:
+New players often overbuild Defense Posts; reserve posts for chokepoints and critical city borders.
+7. Advanced Tips & Meta
+Port & Warship Cover:
+Control sea lanes near ports to prevent naval raids; warships protect trade routes and deter amphibious flanks.
+City Placement:
+Build cities just behind Defense Posts; more cities → higher max population → larger reserves for defense.
+Obstacle Integration:
+Treat wilderness and terrain edges as natural obstacles; combine with built posts to channel attacks into kill zones.
+Adaptive Defense:
+Transition from pure turtle to counterattacks once opponent armies deplete overcoming posts, leveraging your economy.
+Sample Defensive Layout
+[This sample illustrates a mountainous chokepoint with staggered Defense Posts (blue diamonds), SAM Launcher rings (red triangles), and Missile Silos (gray circles) placed behind the main line, all anchored by cities (gold stars) for population support.]
+Defend smarter, not harder.
+By combining terrain, fortifications, and strategic structures, defenders in OpenFront.io can create resilient borders that punish attackers and secure victory through attrition.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/mechanics/gold.html
+------------------------------------------------------------
+OpenFront Pro - Your Ultimate OpenFront.io Companion
+Gold Guide for OpenFront.io
+Key Takeaways
+Players generate and spend gold to expand and strengthen their empires.
+Optimizing gold production
+through worker management, conquest, and trade is crucial for victory.
+1. Gold Basics
+1.1 Gold Generation
+Gold is generated passively each tick based on the number of workers (non-military population units) you maintain.
+Base rate
+: Approximately 1 gold per worker per tick, up to a cap determined by your total population capacity.
+1.2 Gold Uses & Costs
+Gold funds all structures and advanced units. Costs scale exponentially as you build more of each type:
+|Structure/Unit|Price Formula|Maximum Price|
+|—|—|—|
+|Warship|250 000 × (warship_count + 1)|1 000 000|
+|Port|125 000 × 2^(port_count)|1 000 000|
+|Defense Post|50 000 × (defense_post_count + 1)|250 000|
+|SAM Launcher|1 500 000 × (SAM_count + 1)|3 000 000|
+|City|125 000 × 2^(city_count)|1 000 000|
+|Missile Silo|1 000 000|N/A|
+|Atom Bomb|750 000|N/A|
+|Hydrogen Bomb|5 000 000|N/A|
+|MIRV|25 000 000|N/A|
+All prices and caps from the official wiki
+.
+2. Sources of Gold
+|Source|Description|Notes|
+|—|—|—|
+|Passive Generation|Based on workers|Adjust troop/worker slider to increase workers (and gold) at the expense of troop strength .|
+|Conquest (Annexation)|Instant gold payout when conquering a territory|You receive the target’s accumulated gold and cities’ future gold yields. Surrounding a bot for full annex yields maximal payout .|
+|Trade Routes|Ongoing gold via ports built on coastal tiles|Longer routes and stacking multiple ports on borders amplify gold flow exponentially (distance bonus applies) .|
+|Plunder|Gold from besieged opponents|When multiple players attack the same target, the final blow awards gold to the attacker. Timing attacks for the “last hit” is essential .|
+3. Maximizing Gold Production
+Optimize Troop/Worker Ratio
+Early game: Lower the troop slider slightly to boost workers, maximizing passive gold without crippling defense .
+Mid/late game: Maintain enough troops to deter attacks, but add workers where safe.
+Rapid Annexation
+Target small‐land bots first for quick annex payouts.
+Use a high attack ratio (≥ 200% of defender’s strength) to speed conquest and secure gold .
+Trade Route Engineering
+Build ports along your most distant borders to maximize distance bonuses.
+Stack ports
+—placing multiple ports on adjacent coastal tiles compounds incoming gold .
+Strategic Alliances & Betrayals
+Form alliances to secure safe borders, then annex allied territory for dual payout (gold + assets).
+Time betrayals to coincide with maximum city/port accumulation.
+4. Advanced Tips
+Port Saturation
+: In custom lobbies, free port modes allow extreme port stacking, yielding billions of gold—use sparingly, as server lag may ensue .
+SAM Exploitation
+: Late‐game SAM defense posts can indirectly generate gold by preserving territory and preventing enemy raids.
+Atomic Arsenal
+: Reserve gold for high-impact structures (e.g., MIRV) only after securing passive and trade incomes.
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/socials/wiki.html
+------------------------------------------------------------
+Official Wiki - OpenFront Pro
+OpenFront.io Wiki
+Official Game Documentation
+72 Articles • 83 Files • Community Maintained
+Visit OpenFront.io Wiki
+Welcome to the OpenFront.io Wiki!
+📚 The comprehensive knowledge base for OpenFront.io
+🌍 Community-driven documentation with 72 articles and 83 files
+A collaborative project that anyone, including you, can build and expand!
+Quick Navigation
+Getting Started
+New Player Guides
+Essential guides for new players including controls, attacking strategies, and game mechanics.
+Maps & World
+Terrain & Geography
+Detailed information about all maps, terrain types, and world geography in OpenFront.
+Buildings & Units
+Military Assets
+Complete reference for all buildings, ships, weapons, and defensive structures.
+Wiki Content Categories
+Introduction and Guides
+•
+OpenFront.io
+- Game overview and introduction
+•
+Attacking Guide
+- Combat strategies and tactics
+•
+Controls
+- Game controls and interface
+•
+Getting Started
+- New player essentials
+Game Mechanics
+•
+Combat
+- Battle mechanics and systems
+•
+Gold
+- Economy and resource management
+•
+Traitor
+- Betrayal mechanics
+•
+Alliance
+- Team formation and diplomacy
+•
+Trading
+- Economic interactions
+•
+Difficulty
+- Single-player game settings
+The World
+•
+Maps
+- All available game maps
+•
+Terrain
+- Land types and geography
+•
+Nations
+- Countries and territories
+•
+Bots
+- AI players and behavior
+Buildings and Military
+•
+City
+- Urban centers and population
+•
+Port
+- Naval facilities
+•
+Warship
+- Naval combat vessels
+•
+Trade Ship
+- Economic vessels
+•
+Defense Post
+- Defensive structures
+•
+SAM Launcher
+- Anti-aircraft defense
+Nuclear Arsenal
+Weapons of Mass Destruction
+Missile Silo
+Launch facility for nuclear weapons and strategic missiles.
+Atom Bomb
+Basic nuclear weapon with devastating area damage.
+MIRV
+Multiple Independent Reentry Vehicle - advanced nuclear delivery system.
+Hydrogen Bomb
+The most powerful nuclear weapon available in the game.
+Popular Maps
+World Maps
+•
+Giant World Map
+•
+Known World
+•
+Pangaea
+•
+Mars
+Regional Maps
+•
+Europe
+/
+Europe Classic
+•
+North America
+•
+Asia
+/
+East Asia
+•
+Africa
+•
+South America
+•
+Australia
+/
+Oceania
+Special Maps
+•
+Deglaciated Antarctica
+•
+Between Two Seas
+•
+Black Sea
+•
+Strait of Gibraltar
+•
+Gateway to the Atlantic
+•
+Falkland Islands
+Game Update History
+Track the evolution of OpenFront.io through its major updates and releases.
+Update 0.15.0
+Early Release
+Update 0.16.0
+Core Features
+Update 0.17.0
+Improvements
+Update 0.19.0
+Major Update
+Update 0.20.0
+Expansion
+Update 0.21.0
+Enhancements
+Update 0.22.0
+Refinements
+Update 0.23.0
+Latest
+How to Contribute
+Help Build the Wiki!
+Contributing to the OpenFront.io Wiki is easy and helps the entire community. Every edit makes the game more accessible to new players.
+Getting Started
+• Register or log in to the wiki
+• Find any page that needs an update
+• Click the EDIT button in the top right
+• Add any missing details or corrections
+Content You Can Add
+• Upload images and screenshots
+• Document new game features
+• Create strategy guides
+• Update outdated information
+Wiki Statistics
+72
+Total Articles
+83
+Uploaded Files
+8
+Major Updates
+∞
+Community Driven
+Featured Articles
+Map Making Guide
+Learn how to create custom maps for OpenFront.io, including terrain design, nation placement, and balancing considerations.
+Community Creation Guide
+Comparison Tables
+Detailed statistical comparisons of buildings, weapons, and units to help you make strategic decisions in-game.
+Strategic Reference
+Explore the Complete Wiki
+Dive into the comprehensive OpenFront.io Wiki with 72 articles covering everything from basic controls to advanced strategies. Join the community effort to document and improve the game!
+Visit OpenFront.io Wiki
+Explore More Community Platforms
+Connect with the OpenFront.io community across multiple platforms
+Discord
+Reddit
+Steam
+Wiki
+iOS App Store
+Play Store
+Back to All Social Platforms
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/socials/reddit.html
+------------------------------------------------------------
+Reddit Community - OpenFront Pro
+Reddit
+Community Discussion Hub
+1.6K Members • Top 18% by Size • 4 Online
+Visit Reddit
+Welcome to r/Openfront!
+🎮 Play free at
+openfront.io
+🧪 Try the experimental build at
+openfront.dev
+OpenFront is an online multiplayer strategy game that involves conquering the world through careful resource management, strategic planning, and tactical decision-making. Originally launched as a clone of Territorial.io, OpenFront breaks the mold with an added economy system, trade routes, improved naval combat, buildings, and nuclear warfare.
+1.6K
+Members
+Top 18%
+Rank by Size
+4
+Currently Online
+Community Rules
+1
+Reddit's Sitewide Rules
+No spam, harassment, or anything that violates Reddit's policies.
+2
+Stay On Topic
+Posts should be relevant to OpenFront, its community, or related discussions. Off-topic content may be removed.
+3
+Be Respectful
+No personal attacks, hate speech, or excessive toxicity. Healthy debates are welcome, but keep it civil.
+4
+No Excessive Spam or Self-Promotion
+No excessive self-promotion, link dumping, or irrelevant advertising. Advertisements should only be posted once a week. If unsure, ask the mods first.
+5
+No Misinformation
+Avoid spreading false or misleading information about OpenFront or its members. If you're unsure, verify first.
+6
+No Leaks or Private Information
+Do not share private conversations, DMs, or any personal information without permission.
+7
+Moderator Discretion Applies
+Moderators have the final say in disputes. If you have an issue, message the mod team instead of causing drama.
+Community Moderators
+u/Efficient-Wishbone45
+Everything • Joined Jan 1, 2025
+u/OpenFrontOfficial
+Everything • Joined Apr 1, 2025
+u/halil1663
+Everything • Joined Apr 5, 2025
+Popular Community Posts
+📢 Official
+u/Efficient-Wishbone45 • 6 months ago
+84 ↑
+63 comments
+Openfront Introduction
+Official introduction post covering the game's features, links to play, Discord community, and development updates. Essential reading for new players.
+🎭 Memes
+u/Maj0r-DeCoverley • 1 month ago
+84 ↑
+16 comments
+Concentration of force: a modest presentation
+Strategic discussion about military tactics and force concentration in OpenFront gameplay.
+💬 Discussion
+u/peepoette • 25 days ago
+75 ↑
+15 comments
+just saw AI do this?????
+Community discussion about AI behavior and unexpected gameplay moments.
+🎭 Memes
+u/Certain-Landscape-54 • 2 months ago
+74 ↑
+2 comments
+I have become death, destroyer of worlds.
+Nuclear warfare meme referencing the famous Oppenheimer quote, popular among the community.
+Related Communities
+56
+r/openfrontio
+Alternative community
+28
+r/openfrontgame
+Game-focused discussions
+4
+r/OpenFrontHQ
+Strategy headquarters
+1.6K
+r/Openfront
+Main community (here!)
+Popular Post Categories
+🎭
+Memes
+Funny content & jokes
+💬
+Discussion
+Strategy & gameplay talk
+📢
+Official
+Developer announcements
+❓
+Questions
+Help & support
+🔥
+Hot Takes
+Controversial opinions
+🛠
+Suggestions
+Feature requests
+📷
+Media
+Screenshots & videos
+🏛
+Meta
+Community discussions
+Getting Started on Reddit
+New to Reddit?
+•
+Create a Reddit account to participate
+•
+Read the community rules before posting
+•
+Use upvotes/downvotes to engage with content
+•
+Join discussions in the comments
+What to Post
+•
+Share your epic victories and defeats
+•
+Ask questions about game mechanics
+•
+Discuss strategies and tactics
+•
+Share memes and funny moments
+•
+Suggest new features or improvements
+Connect Across Platforms
+Join the OpenFront community on multiple platforms for the complete experience!
+Discord
+Steam
+Wiki
+Explore More Community Platforms
+Connect with the OpenFront.io community across multiple platforms
+Discord
+Reddit
+Steam
+Wiki
+iOS App Store
+Play Store
+Back to All Social Platforms
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/socials/youtube.html
+------------------------------------------------------------
+YouTube Channel - OpenFront Pro
+YouTube
+Official Video Content Hub
+125K+ Total Views • Growing Community
+Visit YouTube
+Welcome to OpenFront on YouTube!
+🎮 Play free at
+openfront.io
+📺 Watch tutorials, gameplay, and strategy guides from the community
+Learn from experienced players and discover new strategies to dominate the battlefield!
+Featured Videos
+How to Play Open Front
+113K views • 6 months ago
+The ultimate beginner's guide to OpenFront.io! Learn the basics of gameplay, building strategies, and essential tactics to get started in this strategic browser game.
+Duration: 5:40
+Watch Now
+OpenFront Tutorial
+12K views • 7 months ago
+Comprehensive tutorial covering advanced strategies, building optimization, and tactical gameplay. Perfect for players looking to improve their skills.
+In-depth Guide
+Watch Now
+Notable OpenFront YouTubers
+Discover amazing OpenFront content from these talented creators in the community!
+🎮
+Fiouze
+Strategy Expert
+🎯
+CG Plays
+Gameplay Content
+⚡
+Enzo Plays
+Fast-Paced Action
+👑
+Ultimus_Rex
+Advanced Tactics
+🎲
+Molky Gaming
+Entertainment
+📺
+Domingo Replay
+Match Analysis
+⚔️
+Biffeur
+Combat Focus
+🐉
+DruuuWu
+Creative Content
+Video Content Categories
+📚
+Tutorials & Guides
+Learn the basics and advanced strategies from experienced players
+🎮
+Gameplay Videos
+Watch live matches and see strategies in action
+⚡
+Quick Tips
+Short videos with specific tactics and tricks
+🏆
+Tournament Highlights
+Best moments from competitive matches
+🔥
+Epic Battles
+Intense warfare and nuclear strikes
+🎭
+Entertainment
+Fun content and community highlights
+What You'll Learn
+Beginner Strategies
+• Basic building placement and timing
+• Resource management fundamentals
+• Early game expansion tactics
+• Defense positioning strategies
+• Alliance formation tips
+Advanced Techniques
+• Nuclear warfare strategies
+• Complex alliance management
+• Late-game economic optimization
+• Psychological warfare tactics
+• Tournament-level gameplay
+YouTube Community Guidelines
+Encouraged Content
+• Educational gameplay tutorials
+• Strategy guides and tips
+• Community highlights and features
+• Constructive game analysis
+• Entertaining gameplay moments
+Community Standards
+• Keep content family-friendly
+• No harassment or toxic behavior
+• Respect other creators and players
+• Follow YouTube's terms of service
+• Credit sources and collaborators
+Subscribe to OpenFront on YouTube
+Stay updated with the latest tutorials, gameplay videos, and strategy guides. Join the growing community of OpenFront content creators and viewers!
+Visit YouTube Channel
+Explore More Community Platforms
+Connect with the OpenFront.io community across multiple platforms
+Discord
+Reddit
+Steam
+Wiki
+iOS App Store
+Play Store
+Back to All Social Platforms
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/socials/ios-app-store.html
+------------------------------------------------------------
+iOS App Store - OpenFront Pro
+iOS App Store
+Mobile App Development
+Coming After Steam Release • iOS 14+ Required
+Visit iOS App Store
+iOS App Coming Soon!
+OpenFront for iOS is currently in development and will be available on the App Store after the Steam Early Access release. Get ready for the ultimate mobile strategy experience!
+Development Priority: Steam → iOS → Android
+Current Mobile Experience
+Browser Limitations
+⚠
+Significant input lag on mobile Safari
+⚠
+Touch controls not optimized for iOS
+⚠
+Performance issues on older devices
+⚠
+Territory selection often unresponsive
+Community Feedback
+"It's kind of a shame because I think I'd only ever play it on mobile when I have time to kill but the input lag is awful."
+"Mobile support isn't fully implemented, the best experience you'll get is when it officially has Android and iOS app."
+Developer Response:
+"Working on it. Planning on a mobile version of the game that's faster paced with smaller maps."
+Planned iOS App Features
+Native iOS Experience
+✓
+Optimized for iPhone and iPad
+✓
+Intuitive touch controls and gestures
+✓
+Native iOS UI/UX design
+✓
+Offline mode capabilities
+✓
+Push notifications for game events
+Mobile-Optimized Gameplay
+✓
+Faster-paced "Blitz" game modes
+✓
+Smaller maps for quicker matches
+✓
+Simplified controls for touch gameplay
+✓
+Cross-platform play with PC users
+✓
+Portrait and landscape mode support
+Expected iOS Requirements
+Minimum Requirements
+iOS Version:
+iOS 14.0 or later
+Device:
+iPhone 8 / iPad (6th gen) or newer
+Storage:
+500 MB available space
+RAM:
+3 GB or more recommended
+Network:
+Wi-Fi or cellular data connection
+Recommended Devices
+iPhone:
+iPhone 12 or newer
+iPad:
+iPad Air (4th gen) or iPad Pro
+iOS Version:
+iOS 16.0 or later
+Storage:
+1 GB available space
+Network:
+Wi-Fi for best performance
+Development Timeline
+Phase 1: Steam Early Access
+Focus on PC platform and core gameplay
+Current
+2
+Phase 2: iOS Development
+Native iOS app with touch controls and mobile features
+Next
+3
+Phase 3: Android Development
+Android version with cross-platform compatibility
+Future
+Stay Updated on iOS Development
+Join our community to get the latest updates on iOS development progress and be the first to know when the app launches!
+Join Discord for Updates
+Follow on Reddit
+Frequently Asked Questions
+When will the iOS app be released?
+The iOS app is planned for development after the Steam Early Access release. We don't have a specific date yet, but we'll announce it through our community channels as soon as we have more information.
+Will it be free like the PC version?
+Yes, OpenFront will remain free-to-play on iOS, just like the PC version. We may introduce optional in-app purchases to support development, but the core game will always be free.
+Can I play with PC players?
+Yes! Cross-platform play is planned, so iOS players will be able to compete with PC and Android players in the same matches.
+Will there be different game modes for mobile?
+Absolutely! We're planning faster-paced "Blitz" modes with smaller maps specifically designed for mobile gaming sessions. These will be perfect for playing on the go.
+What about the current mobile browser experience?
+We're aware of the current limitations with mobile browsers, including input lag and control issues. The native iOS app will solve these problems with optimized touch controls and better performance.
+Explore More Community Platforms
+Connect with the OpenFront.io community across multiple platforms
+Discord
+Reddit
+Steam
+Wiki
+iOS App Store
+Play Store
+Back to All Social Platforms
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/socials/github-source-code.html
+------------------------------------------------------------
+GitHub Repository - OpenFront Pro
+GitHub
+Official Open Source Repository
+652 Stars • 312 Forks • 235 Open Issues
+Visit GitHub
+Welcome to OpenFront on GitHub!
+🎮 Play free at
+openfront.io
+🧪 Try the experimental build at
+beta.openfront.io
+OpenFront.io is completely open source! Explore the source code, contribute to development, and help shape the future of this strategic browser game.
+Repository stats last updated: July 13, 2025 at 09:24 PM
+Repository Statistics
+652
+Stars
+312
+Forks
+19
+Releases
+235
+Open Issues
+Technology Stack
+TypeScript
+92.2% of codebase
+HTML
+3.3% of codebase
+CSS
+2.1% of codebase
+Shell
+1.6% of codebase
+Project Structure
+Directory Structure
+📁 /src
+📁 /client
+- Frontend game client
+📁 /core
+- Shared game logic
+📁 /server
+- Backend game server
+📁 /resources
+- Static assets (images, maps, etc.)
+📁 /tests
+- Test files and configurations
+Development Commands
+npm run dev
+- Development mode
+npm run format
+- Code formatting
+npm run lint
+- Code linting
+npm test
+- Run test suite
+Open Source Licensing
+OpenFront uses a multi-licensing approach to balance open source principles with project sustainability.
+MIT License
+Server and core game logic
+The backend server code and core game mechanics are licensed under MIT,
+          allowing maximum flexibility for developers and contributors.
+GPL v3
+Client-side code
+The frontend client code is licensed under GPL v3, ensuring that
+          modifications to the client remain open source.
+CC BY-NC 4.0
+Game assets
+Non-commercial assets are licensed under Creative Commons,
+          with special commercial exemption for OpenFront LLC.
+How to Contribute
+Getting Started
+1
+Join the Community
+Request to join the development
+Discord server
+to connect with other contributors and get guidance.
+2
+Fork & Clone
+Fork the repository on GitHub and clone it to your local machine:
+git clone https://github.com/YOUR_USERNAME/OpenFrontIO.git
+3
+Install Dependencies
+Install the required dependencies:
+npm install
+4
+Start Development
+Run the development server:
+npm run dev
+Contribution Areas
+🎨
+UI/UX Improvements
+Perfect for new contributors. Enhance the user interface and experience.
+🐛
+Bug Fixes
+Help identify and fix issues to improve game stability and performance.
+🌍
+Translations
+Help translate the game into different languages via
+Crowdin
+.
+⚙️
+Core Features
+For experienced contributors. Work on game mechanics and core systems.
+📚
+Documentation
+Improve code documentation, guides, and help other developers understand the codebase.
+Top Contributors
+Meet the amazing developers who have contributed to OpenFront.io.
+      Their dedication and hard work make this open source project possible.
+evanpelle
+1.5k contributions
+scottanderson
+153 contributions
+NewHappyRabbit
+84 contributions
+ilan-schemoul
+57 contributions
+Aotumuri
+43 contributions
+SunnyBoyWTF
+39 contributions
+Duwibi
+27 contributions
+APuddle210
+20 contributions
+View all contributors on GitHub
+Contribution Guidelines
+Code Quality Requirements
+• All code must be well-commented and follow existing style patterns
+• New features should not break existing functionality
+• Code should be thoroughly tested before submission
+• All code changes in
+src/core
+MUST be tested
+• Use
+npm run format
+and
+npm run lint
+Pull Request Process
+• Keep PRs focused on a single feature or bug fix
+• Include screenshots for UI changes
+• Describe what testing you've performed
+• Be responsive to feedback and requested changes
+• Wait for maintainer approval before merging
+Progressive Contribution System
+1
+New Contributors
+Limited to UI improvements and small bug fixes only
+• Helps you become familiar with the codebase
+• UI changes are easier to review and less likely to break core functionality
+• Small, focused PRs have a higher chance of being accepted
+2
+Established Contributors
+After several successful PRs and demonstrating understanding of the codebase
+• May work on more complex features
+• Can contribute to game mechanics and systems
+• Trusted with larger changes
+3
+Core Contributors
+Only those with extensive experience with the project
+• May modify critical game systems
+• Can work on core architecture changes
+• Trusted with sensitive parts of the codebase
+Repository Activity
+Recent Activity
+Repository Last Updated
+July 13, 2025 at 08:34 PM
+Last Code Push
+July 13, 2025 at 08:45 PM
+Repository Created
+December 12, 2024 at 01:27 AM
+Quick Links
+View Open Issues (235)
+View Pull Requests
+View Releases (19)
+Documentation & Wiki
+Found a Bug or Have a Feature Request?
+Help improve OpenFront by reporting bugs, requesting features, or suggesting improvements on GitHub.
+Report Bug
+Request Feature
+Please search existing issues before creating a new one to avoid duplicates
+Ready to Contribute?
+Join the OpenFront development community and help build the future of browser-based strategy gaming.
+        Every contribution, no matter how small, makes a difference!
+Explore Repository
+Join Discord
+Explore More Community Platforms
+Connect with the OpenFront.io community across multiple platforms
+Discord
+Reddit
+Steam
+Wiki
+iOS App Store
+Play Store
+Back to All Social Platforms
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/socials/discord.html
+------------------------------------------------------------
+Discord Community - OpenFront Pro
+Discord
+Official Community Server
+3,181+ Members • Most Active Community Hub
+Visit Discord
+Welcome to the OpenFront Discord!
+🎮 Play free at
+openfront.io
+🧪 Try the experimental build at
+beta.openfront.io
+Feel free to join the conversation and help shape the game's development!
+Main Channels
+#general
+Main Chat
+Chat about anything OpenFront related. The heart of our community discussions.
+#gameplay
+Strategy & Matches
+Find matches, discuss strategies and gameplay tactics with fellow players.
+#development
+Dev Updates
+Follow and discuss game development, dev updates, and provide feedback.
+All Discord Channels
+Community
+•
+#general
+- Main chat
+•
+#gameplay
+- Strategy & matches
+•
+#find-a-clan
+- 63 active posts
+•
+#clan-chat
+- Clan discussions
+Development
+•
+#game-feedback
+- Share feedback
+•
+#play-testing
+- Beta testing
+•
+#meta
+- Game balancing
+•
+#designs
+- 49 active posts
+•
+#suggestions
+- 402 active posts
+•
+#bugs
+- 127 active posts
+•
+#maps
+- 60 active posts
+Support & Extra
+•
+#tickets
+- Support tickets
+•
+#bot-commands
+- Bot interactions
+•
+#vc-chat
+- Voice chat text
+•
+Voice Channels
+- 6 available
+Found a Bug?
+Help improve OpenFront by reporting bugs and issues you encounter while playing.
+Report it in #bugs!
+Only report unknown bugs, and provide as much detail as possible
+Server Guidelines
+Quick Guidelines
+• Be cool to each other - no harassment or hate speech
+• Keep things SFW (Safe for Work)
+• Don't spam or advertise
+• Use channels for their intended purpose
+These are the basic rules for the official openfront.io discord server. Not following these may result in punishment, depending on the severity and previous rule violations.
+Key Features
+• 3,181+ active members online
+• Real-time game development updates
+• Direct feedback to developers
+• Community tournaments and events
+• Clan recruitment and organization
+• Beta testing opportunities
+Detailed Server Rules
+1
+Behavior Rules
+Stay Respectful
+Remember to be respectful! No toxic/discriminatory/harsh behaviour will be tolerated. Any kind of harsh/toxic slurs or their bypass is not allowed in any context.
+No Trolling
+Any kind of trolling on any user via pings/spam or anything the user is reasonably uncomfortable with is not allowed.
+No Spamming/NSFW
+Spamming & NSFW are strictly prohibited. Technically non-NSFW content that is close to being NSFW is also not allowed.
+No Impersonation
+Don't impersonate other members/staff. You are likely to be banned.
+No Self-Harm
+Encouraging/Threatening about self-harm is also bannable.
+User Profiles
+User profiles must follow the rules, advertising in profile/pfp/name is allowed.
+4
+Game Specific Rules
+No Cheating
+Using any kind of unfair means to give yourself an advantage over others is strictly prohibited. This includes playing the same game on multiple accounts ("multitabbing").
+No Exploits
+Abusing any kind of exploit in the game is not allowed. Report any exploits or security vulnerabilities to the devs immediately.
+Fair Play Policy
+• Multi-Tabbing: Don't use multiple tabs/windows, one player per user
+• Hacking: No unauthorized programs or browser extensions
+• Unfair Teaming: Don't team to disrupt normal gameplay
+5
+Advertisement Rules
+• All advertisements must be related to OpenFront
+• Only 1 post per content is allowed
+• If you share someone else's content it can be taken down upon their request
+• DM recruitment is prohibited in this server
+• Only promote in #clan-advertising and #community-projects every 6 hours
+3
+Rule Enforcement
+Punishment Policy
+• Evading punishment via alts/exploits is not allowed
+• Multiple violations result in stricter punishments
+• Staff can give appropriate punishment for situations
+Appeals & Issues
+• Contact senior staff if you think punishment is unfair
+• Report rule loopholes or server weaknesses immediately
+• Use tickets for moderation complaints, not public channels
+Community Activity
+3,181+
+Total Members
+402
+Suggestions Posted
+127
+Bugs Reported
+63
+Active Clan Posts
+Notable Community Members
+Our Discord community includes dedicated players, beta testers, and active contributors:
+Beta Testers
+• Vivacious Box - Beta Tester
+• Del[UwU] Land - Early Access Supporter
+Active Players
+• [UN] Mægnus [PGN]
+• Remissile [EO]
+• IngloriousTom
+Community Contributors
+• Readix [VS]
+• 𝔽𝔸𝕋𝕄𝔸ℂ (Retired)
+• And many more!
+Ready to Join the Community?
+Connect with thousands of OpenFront players, participate in tournaments, get exclusive development updates, and help shape the future of the game.
+Join Discord Server
+Explore More Community Platforms
+Connect with the OpenFront.io community across multiple platforms
+Discord
+Reddit
+Steam
+Wiki
+iOS App Store
+Play Store
+Back to All Social Platforms
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/socials/patreon.html
+------------------------------------------------------------
+Support OpenFront - Patreon
+Support
+OpenFront
+Help Fund Full-Time Development
+673 Members • €174.7/month • 1 Million Monthly Players
+Join Patreon
+A Message from Evan, Creator of OpenFront
+E
+Hey everyone,
+First off, I want to thank all
+1 million of you
+who play openfront.io each month. Your support has been incredible, and I'm amazed by how this community has grown! I also want to give a special thanks to all the code contributors who have helped make OpenFront what it is today. As an open source project, this game has benefited tremendously from community contributions.
+For the past 6 weeks, I've been working on this game
+full-time, 7 days a week
+, using all my vacation days to bring you updates and improvements. However, my vacation time is now running out, and I'm at a critical decision point: either return to my corporate job and put the game in maintenance mode (meaning updates will stop), or with your support, continue developing this game full-time with new features, better performance, and regular updates.
+Why Patreon?
+By becoming a patron, you're directly supporting ongoing development and ensuring the game continues to evolve rather than stagnate. Without enough support, I'll have no choice but to return to my day job, and updates will effectively stop.
+Membership Options
+Supporter
+€5.50
+/month
+Help support the game!
+Join
+Popular
+Premium Supporter
+€10.50
+/month
+Enhanced support for development
+Join
+Elite Supporter
+€20.50
+/month
+Maximum support for the future
+Join
+What You'll Get
+Currently: Nothing (For now)
+I'm working on adding a subscriber tier, allowing you to choose your territory color, and get access to special cosmetic items.
+OpenFront will never be pay to win.
+Until that's in place, just know you'll be supporting future game updates. By allowing me to go full time, you can expect me to work on exciting new features and improvements.
+Planned Features & Improvements
+Directed expansion (territory expands where you click)
+Player & clan statistics
+Clan leaderboard
+Tournaments
+Preventing Multi-tabbers
+Steam, iOS, and Android release
+Performance Improvements
+Bugfixes
+Community Impact
+673
+Total Members
+42
+Paid Members
+1M
+Monthly Players
+€174.7
+Per Month
+Ready to Support OpenFront?
+Your support directly enables continued development and helps ensure OpenFront.io continues to grow and improve for the entire community.
+Join Patreon
+Play OpenFront
+Connect with the Community
+Join thousands of players across multiple platforms
+Discord
+Reddit
+All Platforms
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/socials/android-play-store.html
+------------------------------------------------------------
+Google Play Store - OpenFront Pro
+Google Play Store
+Mobile App Development
+Coming After iOS Release • Android 8.0+ Required
+Visit Google Play Store
+Android App Coming Soon!
+OpenFront for Android is planned for development after the iOS release. Experience the ultimate mobile strategy game with native Android features and optimizations!
+Development Priority: Steam → iOS → Android
+Current Android Experience
+Browser Limitations
+⚠
+Significant input lag on mobile browsers
+⚠
+Touch controls not optimized for Android
+⚠
+Performance varies greatly across devices
+⚠
+Territory selection often unresponsive
+⚠
+No keyboard controls tutorial for mobile
+Community Workarounds
+"I'm playing on mobile almost every day... Try switching to Opera GX, that's what I did and it increased performances significantly"
+"I got a game to run but then what? All the controls and tutorials are for keyboard"
+Current Status:
+Some players use alternative browsers for better performance, but the experience remains suboptimal.
+Planned Android App Features
+Native Android Experience
+✓
+Optimized for phones and tablets
+✓
+Material Design UI/UX
+✓
+Intuitive touch controls and gestures
+✓
+Android-specific features integration
+✓
+Push notifications for game events
+Mobile-Optimized Gameplay
+✓
+Faster-paced "Blitz" game modes
+✓
+Smaller maps for quicker matches
+✓
+Simplified controls for touch gameplay
+✓
+Cross-platform play with PC and iOS
+✓
+Portrait and landscape mode support
+Expected Android Requirements
+Minimum Requirements
+Android Version:
+Android 8.0 (API level 26) or later
+RAM:
+3 GB or more
+Storage:
+500 MB available space
+Processor:
+ARM64 or x86_64 architecture
+Network:
+Wi-Fi or mobile data connection
+Recommended Specifications
+Android Version:
+Android 10.0 or later
+RAM:
+6 GB or more
+Storage:
+1 GB available space
+Processor:
+Snapdragon 660 / Exynos 9611 or better
+Network:
+Wi-Fi for optimal performance
+Development Timeline
+Phase 1: Steam Early Access
+Focus on PC platform and core gameplay
+Current
+2
+Phase 2: iOS Development
+Native iOS app with touch controls and mobile features
+Next
+3
+Phase 3: Android Development
+Android version with cross-platform compatibility
+Following iOS
+Android-Specific Features
+Device Optimization
+Optimized for various Android screen sizes and hardware configurations
+Material Design
+Native Android UI following Google's Material Design guidelines
+Performance
+Optimized performance across different Android hardware configurations
+Stay Updated on Android Development
+Join our community to get the latest updates on Android development progress and be among the first to download when it launches!
+Join Discord for Updates
+Follow on Reddit
+Frequently Asked Questions
+When will the Android app be released?
+The Android app is planned for development after the iOS release. The exact timeline depends on iOS development progress, but we'll keep the community updated through our Discord and Reddit channels.
+Why is Android coming after iOS?
+We're prioritizing iOS first to focus our development resources and ensure quality. Once the iOS version is stable, we'll apply those learnings to create an excellent Android experience.
+Will it work on my Android device?
+The app will support Android 8.0+ with at least 3GB RAM. We're optimizing for a wide range of devices, from budget phones to flagship tablets.
+Can I play with iOS and PC players?
+Yes! Cross-platform play is a core feature, so Android players will be able to compete with PC and iOS players in the same matches.
+What about the current browser experience on Android?
+We know the current mobile browser experience has significant limitations. Some players report better performance with Opera GX, but the native Android app will solve all these issues with proper touch controls and optimized performance.
+Explore More Community Platforms
+Connect with the OpenFront.io community across multiple platforms
+Discord
+Reddit
+Steam
+Wiki
+iOS App Store
+Play Store
+Back to All Social Platforms
+
+================================================================================
+
+📄 FILE: ./openfrontpro.com/socials/steam.html
+------------------------------------------------------------
+Steam Store Page - OpenFront Pro
+Steam
+Official Steam Store Page
+Early Access • Coming Soon • Free to Play
+Visit Steam
+OpenFront on Steam
+Experience the ultimate PvP battle-royale where strategy meets destruction. Join hundreds of players in an epic fight for global domination.
+Game Description
+OpenFront is an exhilarating PvP battle-royale experience where players vie for global domination. Hundreds of competitors clash on a single, sprawling map, engaging in intense combat to expand their territories.
+Forge alliances through trade, amass wealth in gold, and unleash devastating nuclear strikes to obliterate your rivals. Strategy and supremacy reign in this unforgiving world—will you rise to conquer it all?
+Key Features
+•
+Massive multiplayer battles with hundreds of players
+•
+Strategic territory expansion and resource management
+•
+Alliance system for diplomatic gameplay
+•
+Nuclear warfare mechanics for ultimate destruction
+•
+Cross-platform multiplayer (PC focus, mobile coming later)
+Game Information
+Developer
+Evan Pellegrini
+Publisher
+OpenFront LLC
+Release Status
+Coming Soon to Early Access
+Genre
+Free To Play, Early Access, Strategy, Action RTS
+Tags
+Strategy, 4X, Action RTS, Wargame, 2D, War, MMO, Online PvP
+System Requirements
+Note:
+Currently available for Windows PC only. Mobile versions (iOS/Android) are planned for post-Steam release.
+Minimum Requirements
+OS:
+Windows 10 (64-bit)
+Processor:
+Dual-core 2.0 GHz or equivalent
+Memory:
+4 GB RAM
+Graphics:
+DirectX 11 compatible
+Storage:
+1 GB available space
+Network:
+Broadband Internet connection
+Recommended Requirements
+OS:
+Windows 10 (64-bit)
+Processor:
+Quad-core 2.5 GHz or equivalent
+Memory:
+8 GB RAM
+Graphics:
+DirectX 11 compatible
+Storage:
+2 GB available space
+Network:
+Broadband Internet connection
+Early Access Development
+Why Early Access?
+OpenFront is currently still in active development. We want to include feedback from players more before releasing the game fully.
+Development Timeline
+We expect to leave Early Access after six months. During this time, players can contribute to the development by sharing feedback and suggestions.
+Planned Features
+•
+Enhanced offline support
+•
+Additional game modes
+•
+Leaderboards for players and clans
+•
+Tournament system
+•
+Community-requested features
+Mobile Development Roadmap
+Coming After Steam Release
+Mobile versions for iOS and Android are planned for development after the Steam Early Access release. The mobile experience will be optimized for touch controls and shorter play sessions.
+Current Mobile Status
+⚠
+Limited mobile browser support with input lag
+⚠
+Touch controls not fully optimized
+⚠
+Performance issues on mobile devices
+ℹ
+Some players use Opera GX for better performance
+Planned Mobile Features
+✓
+Native iOS and Android apps
+✓
+Optimized touch controls and UI
+✓
+Faster-paced "Blitz" game modes
+✓
+Smaller maps for mobile gameplay
+✓
+Cross-platform compatibility
+Development Priority:
+Steam Early Access → Mobile Apps → Additional Platforms
+Community Discussions
+Join the conversation with fellow players on Steam's discussion boards
+Popular Discussion Topics
+•
+Game improvement suggestions
+•
+Strategy discussions and tips
+•
+Bug reports and technical support
+•
+Feature requests and feedback
+•
+Community events and tournaments
+Discussion Guidelines
+✓
+Be respectful to other players
+✓
+Stay on topic about OpenFront
+✓
+Provide constructive feedback
+✓
+Help other players with questions
+✓
+Follow Steam community guidelines
+Screenshots & Media
+Get a glimpse of the intense battles and strategic gameplay that await you
+Battle Screenshots
+Epic multiplayer battles
+Strategy Interface
+Command and control
+Nuclear Strikes
+Ultimate destruction
+Ready to Dominate?
+Add OpenFront to your Steam wishlist to be notified when Early Access launches. Join thousands of players in the ultimate battle for global supremacy!
+Add to Wishlist on Steam
+Join Discord Community
+Additional Resources
+Strategy Guides
+Master the game with comprehensive guides
+View Guides →
+Community Hub
+Connect with players across platforms
+Join Community →
+Official Wiki
+Detailed game documentation
+Visit Wiki →
+Explore More Community Platforms
+Connect with the OpenFront.io community across multiple platforms
+Discord
+Reddit
+Steam
+Wiki
+iOS App Store
+Play Store
+Back to All Social Platforms
+
+================================================================================
+

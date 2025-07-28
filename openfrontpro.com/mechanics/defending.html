@@ -1,0 +1,87 @@
+<!DOCTYPE html><html lang="en" class="dark"> <head><meta charset="UTF-8"><meta name="description" content="OpenFront Pro - Your comprehensive companion site for OpenFront.io"><meta name="keywords" content="OpenFront, strategy game, guide, tips, buildings, maps"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="sitemap" href="../sitemap-index.xml"><link rel="icon" type="image/svg+xml" href="../favicon.svg"><meta name="generator" content="Astro v5.11.0"><title>OpenFront Pro - Your Ultimate OpenFront.io Companion</title><!-- SEO Meta Tags --><meta property="og:title" content="OpenFront Pro - Your Ultimate OpenFront.io Companion"><meta property="og:description" content="OpenFront Pro - Your comprehensive companion site for OpenFront.io"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="OpenFront Pro - Your Ultimate OpenFront.io Companion"><meta name="twitter:description" content="OpenFront Pro - Your comprehensive companion site for OpenFront.io"><!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-DNN0JM1WW0"></script><script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag('js', new Date());
+      gtag('config', 'G-DNN0JM1WW0');
+    </script><link rel="stylesheet" href="../_astro/beginners-guide.DdW3FPSt.css"></head> <body class="min-h-screen flex flex-col bg-gray-900"> <header class="bg-gray-900 shadow-lg border-b border-blue-400/20"> <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"> <div class="flex justify-between items-center h-16"> <!-- Logo/Brand --> <div class="flex-shrink-0"> <a href="../index.html" class="flex items-center"> <span class="text-2xl font-bold text-blue-600">OpenFront Pro</span> </a> </div> <!-- Desktop Navigation --> <div class="hidden md:block"> <div class="ml-10 flex items-baseline space-x-4"> <a href="../beginners-guide.html" class="text-gray-300 hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200"> Guide </a><a href="../buildings.html" class="text-gray-300 hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200"> Buildings </a><a href="../maps.html" class="text-gray-300 hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200"> Maps </a><a href="../mechanics.html" class="text-gray-300 hover:text-blue-400 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200"> Mechanics </a> </div> </div> <!-- Mobile menu button --> <div class="md:hidden"> <button type="button" class="mobile-menu-button inline-flex items-center justify-center p-2 rounded-md text-gray-300 hover:text-blue-400 hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-600 transition-colors duration-200" aria-controls="mobile-menu" aria-expanded="false"> <span class="sr-only">Open main menu</span> <!-- Hamburger icon --> <svg class="hamburger-icon block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path> </svg> <!-- Close icon --> <svg class="close-icon hidden h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path> </svg> </button> </div> </div> <!-- Mobile Navigation Menu --> <div class="mobile-menu hidden md:hidden"> <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-gray-800 rounded-lg mt-2"> <a href="../beginners-guide.html" class="text-gray-300 hover:text-blue-400 block px-3 py-2 rounded-md text-base font-medium transition-colors duration-200"> Guide </a><a href="../buildings.html" class="text-gray-300 hover:text-blue-400 block px-3 py-2 rounded-md text-base font-medium transition-colors duration-200"> Buildings </a><a href="../maps.html" class="text-gray-300 hover:text-blue-400 block px-3 py-2 rounded-md text-base font-medium transition-colors duration-200"> Maps </a><a href="../mechanics.html" class="text-gray-300 hover:text-blue-400 block px-3 py-2 rounded-md text-base font-medium transition-colors duration-200"> Mechanics </a> </div> </div> </nav> </header> <script type="module">document.addEventListener("DOMContentLoaded",function(){const e=document.querySelector(".mobile-menu-button"),t=document.querySelector(".mobile-menu"),n=document.querySelector(".hamburger-icon"),d=document.querySelector(".close-icon");e&&t&&n&&d&&(e.addEventListener("click",function(){const i=e.getAttribute("aria-expanded")==="true";t.classList.toggle("hidden"),n.classList.toggle("hidden"),d.classList.toggle("hidden"),e.setAttribute("aria-expanded",(!i).toString())}),document.addEventListener("click",function(i){const s=i.target;!e.contains(s)&&!t.contains(s)&&(t.classList.add("hidden"),n.classList.remove("hidden"),d.classList.add("hidden"),e.setAttribute("aria-expanded","false"))}),window.addEventListener("resize",function(){window.innerWidth>=768&&(t.classList.add("hidden"),n.classList.remove("hidden"),d.classList.add("hidden"),e.setAttribute("aria-expanded","false"))}))});</script> <main class="flex-grow">  <div class="prose prose-xl prose-invert prose-a:text-blue-600 prose-img:rounded-xl m-auto my-12">  <h1 id="openfrontio-defense-guide">OpenFront.io Defense Guide</h1>
+<p><strong>Main Takeaway:</strong> Effective defense in OpenFront.io hinges on leveraging terrain advantages, judicious placement of Defense Posts, and integrating supportive structures (SAM Launchers, Missile Silos) into a cohesive border-fortification strategy.</p>
+<h2 id="1-defense-fundamentals">1. Defense Fundamentals</h2>
+<p>OpenFront’s combat mechanics inherently favor defenders:</p>
+<ul>
+<li><strong>Defender Loss Formula:</strong><br>
+$$ \text{Defender Loss/tick} = \frac{\text{Defender Troops}}{\text{Tiles Owned}} $$</li>
+<li><strong>Attacker Loss Formula:</strong><br>
+$$ \text{Attacker Loss/tick} = \text{Troop Ratio Factor} \times \text{Terrain Multiplier} \times 0.8 \times \text{Size Modifier} \times (\text{Traitor? }0.5:1) $$</li>
+<li><strong>Key Implication:</strong> Attacks against small empires incur high ratio losses; defenders on few tiles take heavier losses per tile than large empires.</li>
+</ul>
+<p><em>Press Spacebar to overlay terrain.</em> Terrain confers multipliers:</p>
+<ul>
+<li>Plains: 0.85× losses, +17.5% speed</li>
+<li>Highlands: 1.00× losses, base speed</li>
+<li>Mountains: 1.20× losses, –25% speed</li>
+</ul>
+<h2 id="2-terrain-driven-defense">2. Terrain-Driven Defense</h2>
+<ol>
+<li><strong>Hold High Ground:</strong> Station troops on mountains or highlands to increase attacker losses by up to 20% and slow their conquest.</li>
+<li><strong>Choke Points:</strong> Use narrow passages (e.g., mountain gaps) to funnel attacks into kill zones.</li>
+<li><strong>Wilderness as Buffer:</strong> Expand into unclaimed land early to create a safe perimeter; attacker losses on wilderness are fixed by terrain without base reduction (20–24 troops/tick).</li>
+</ol>
+<h2 id="3-defense-posts">3. Defense Posts**</h2>
+<p><strong>Building Stats</strong></p>
+<ul>
+<li>Cost: 50 000 → +50 000 (max 250 000)</li>
+<li>Build time: 5 s (50 ticks)</li>
+<li>Range: 30 tiles (diamond shape, Manhattan distance)</li>
+<li>Stacks with terrain:
+<ul>
+<li>Mountains: 6× total defense</li>
+<li>Highlands: 5×</li>
+<li>Plains: 4.5×</li>
+</ul>
+</li>
+<li>Multiple posts do <strong>not</strong> stack</li>
+</ul>
+<p><strong>Best Practices</strong></p>
+<ul>
+<li><strong>Key Borders:</strong> Place posts at vulnerable frontiers with enemy adjacency.</li>
+<li><strong>Terrain Synergy:</strong> Build in mountains to maximize 6× defense.</li>
+<li><strong>Depth Layering:</strong> Stagger posts ~30 tiles apart to cover successive border rings.</li>
+<li><strong>Economy vs. Defense:</strong> Early game posts offer diminishing returns; prioritize when under direct threat.</li>
+</ul>
+<h2 id="4-anti-missile-layer">4. Anti-Missile Layer**</h2>
+<ul>
+<li><strong>SAM Launcher:</strong> Destroys 75% of incoming Atom/Hydrogen bombs; cooldown 7.5 s; cannot intercept MIRVs.</li>
+<li><strong>Missile Silo:</strong> Enables your own nukes; place safely behind Defense Posts to deter “nuke rush”.</li>
+</ul>
+<p><strong>SAM Net Strategy:</strong><br>
+Arrange SAMs in a web covering high-value cities and silos. Late-game “SAM nets” around island clusters or peninsulas make MIRV strikes prohibitively costly for attackers.</p>
+<h2 id="5-dynamic-border-management">5. Dynamic Border Management</h2>
+<ul>
+<li><strong>Troop Reserves:</strong> Keep a mobile reserve behind posts to reinforce breached tiles.</li>
+<li><strong>Traitormeter Awareness:</strong> Betrayed allies suffer 50% increased attacker losses for 30 s; use non-aggression pacts to safely reinforce borders and avoid “traitor” debuffs.</li>
+<li><strong>Alliances &#x26; Betrayal:</strong> Defensive pacts can free resources for other fronts; timing betrayals to coincide with major engagements maximizes defense.</li>
+</ul>
+<h2 id="6-early-game-turtle--expansion">6. Early-Game Turtle &#x26; Expansion</h2>
+<ul>
+<li><strong>Annexations:</strong> Surround isolated bots to annex multiple tiles instantly.</li>
+<li><strong>Balanced Growth:</strong> Expand into wilderness until ~50% population, then switch to fortifying vulnerable borders with 30–40% troop pushes.</li>
+<li><strong>Selective Posts:</strong> New players often overbuild Defense Posts; reserve posts for chokepoints and critical city borders.</li>
+</ul>
+<h2 id="7-advanced-tips--meta">7. Advanced Tips &#x26; Meta</h2>
+<ul>
+<li><strong>Port &#x26; Warship Cover:</strong> Control sea lanes near ports to prevent naval raids; warships protect trade routes and deter amphibious flanks.</li>
+<li><strong>City Placement:</strong> Build cities just behind Defense Posts; more cities → higher max population → larger reserves for defense.</li>
+<li><strong>Obstacle Integration:</strong> Treat wilderness and terrain edges as natural obstacles; combine with built posts to channel attacks into kill zones.</li>
+<li><strong>Adaptive Defense:</strong> Transition from pure turtle to counterattacks once opponent armies deplete overcoming posts, leveraging your economy.</li>
+</ul>
+<h2 id="sample-defensive-layout">Sample Defensive Layout</h2>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="markdown"><code><span class="line"></span></code></pre>
+<p>[This sample illustrates a mountainous chokepoint with staggered Defense Posts (blue diamonds), SAM Launcher rings (red triangles), and Missile Silos (gray circles) placed behind the main line, all anchored by cities (gold stars) for population support.]</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="plaintext"><code><span class="line"><span></span></span></code></pre>
+<p><strong>Defend smarter, not harder.</strong> By combining terrain, fortifications, and strategic structures, defenders in OpenFront.io can create resilient borders that punish attackers and secure victory through attrition.</p>  </div>  </main> <footer class="bg-gray-950 text-white"> <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12"> <div class="grid grid-cols-1 md:grid-cols-4 gap-8"> <!-- Brand Section --> <div class="col-span-1 md:col-span-2"> <div class="flex items-center mb-4"> <span class="text-2xl font-bold text-blue-400">OpenFront Pro</span> </div> <p class="text-gray-400 mb-4 max-w-md"> Your comprehensive companion site for OpenFront.io - featuring guides, strategies, and community resources to help you master the game. </p> </div> <!-- Quick Links --> <div> <h3 class="text-lg font-semibold text-white mb-4">Quick Links</h3> <ul class="space-y-2"> <li> <a href="../index.html" class="text-gray-400 hover:text-blue-300 transition-colors duration-200"> Home </a> </li><li> <a href="../beginners-guide.html" class="text-gray-400 hover:text-blue-300 transition-colors duration-200"> Beginner&#39;s Guide </a> </li> </ul> </div> <!-- Resources --> <div> <h3 class="text-lg font-semibold text-white mb-4">Resources</h3> <ul class="space-y-2"> <li> <a href="../socials.html" class="text-gray-400 hover:text-blue-300 transition-colors duration-200"> Community  </a> </li><li> <a href="https://openfront.io" class="text-gray-400 hover:text-blue-300 transition-colors duration-200" target="_blank" rel="noopener noreferrer"> Play OpenFront <svg class="inline h-4 w-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path> </svg> </a> </li> </ul> </div> </div> <!-- Bottom Section --> <div class="border-t border-gray-800 mt-8 pt-8"> <div class="text-center"> <div class="text-gray-400 text-sm">
+© 2024 OpenFront Pro. This is an unofficial companion site for
+          OpenFront.io.
+</div> </div> </div> </div> </footer> </body></html>
